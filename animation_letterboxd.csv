@@ -1,0 +1,51 @@
+,Unnamed: 0,rating,likes,genre,top cast,language,director,n_rating
+8,The Prince of Egypt,3.99,110193,"['Adventure', 'Animation', 'Family', 'Drama']","['Val Kilmer', 'Ralph Fiennes', 'Michelle Pfeiffer']",English,Simon Wells,0.8507462686567164
+10,Spirited Away,4.46,1204588,"['Family', 'Fantasy', 'Animation']","['Rumi Hiiragi', 'Miyu Irino', 'Mari Natsuki']",Japanese,Hayao Miyazaki,0.950959488272921
+15,Spider-Man: Into the Spider-Verse,4.43,1654380,"['Adventure', 'Animation', 'Science Fiction', 'Action']","['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld']",English,Rodney Rothman,0.9445628997867802
+27,A Silent Voice,4.15,161321,"['Drama', 'Animation']","['Miyu Irino', 'Saori Hayami', 'Aoi Yuki']",Japanese,Naoko Yamada,0.8848614072494669
+34,Finding Nemo,4.04,596281,"['Animation', 'Family']","['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould']",English,Andrew Stanton,0.8614072494669509
+39,Kung Fu Panda,3.83,294240,"['Comedy', 'Action', 'Family', 'Adventure', 'Animation']","['Jack Black', 'Angelina Jolie', 'Dustin Hoffman']",English,Mark Osborne,0.8166311300639658
+46,Akira,4.27,257590,"['Animation', 'Action', 'Science Fiction']","['Mitsuo Iwata', 'Nozomu Sasaki', 'Mami Koyama']",Japanese,Katsuhiro Otomo,0.9104477611940297
+51,Toy Story,4.13,632705,"['Comedy', 'Animation', 'Family', 'Adventure']","['Tom Hanks', 'Tim Allen', 'Don Rickles']",English,John Lasseter,0.880597014925373
+52,The Lion King,4.21,560975,"['Animation', 'Family', 'Drama']","['Matthew Broderick', 'Moira Kelly', 'Nathan Lane']",English,Roger Allers,0.8976545842217483
+54,Up,4.09,808338,"['Animation', 'Adventure', 'Family', 'Comedy']","['Ed Asner', 'Christopher Plummer', 'Jordan Nagai']",English,Pete Docter,0.8720682302771854
+59,Grave of the Fireflies,4.45,224790,"['War', 'Drama', 'Animation']","['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Yoshiko Shinohara']",Japanese,Isao Takahata,0.9488272921108741
+60,Millennium Actress,4.22,41565,"['Romance', 'Animation', 'Drama']","['Miyoko Shoji', 'Mami Koyama', 'Fumiko Orikasa']",Japanese,Satoshi Kon,0.8997867803837952
+79,The SpongeBob SquarePants Movie,3.85,134888,"['Adventure', 'Comedy', 'Fantasy', 'Family', 'Animation']","['Tom Kenny', 'Clancy Brown', 'Rodger Bumpass']",English,Stephen Hillenburg,0.8208955223880596
+84,Ratatouille,4.2,993548,"['Animation', 'Family', 'Comedy', 'Fantasy']","['Patton Oswalt', 'Lou Romano', 'Ian Holm']",English,Brad Bird,0.8955223880597014
+86,Princess Mononoke,4.37,454900,"['Adventure', 'Fantasy', 'Animation']","['Youji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka']",Japanese,Hayao Miyazaki,0.9317697228144989
+114,Shrek,4.06,610075,"['Adventure', 'Fantasy', 'Family', 'Animation', 'Comedy']","['Mike Myers', 'Eddie Murphy', 'Cameron Diaz']",English,Andrew Adamson,0.8656716417910446
+139,My Neighbor Totoro,4.19,560265,"['Fantasy', 'Animation', 'Family']","['Noriko Hidaka', 'Chika Sakamoto', 'Hitoshi Takagi']",Japanese,Hayao Miyazaki,0.8933901918976546
+142,The Iron Giant,4.24,218933,"['Science Fiction', 'Animation', 'Family', 'Adventure']","['Vin Diesel', 'Eli Marienthal', 'Jennifer Aniston']",English,Brad Bird,0.9040511727078892
+147,Inside Out,3.82,720787,"['Comedy', 'Family', 'Animation', 'Adventure', 'Drama']","['Amy Poehler', 'Phyllis Smith', 'Bill Hader']",English,Pete Docter,0.8144989339019189
+157,Fantastic Planet,4.01,76270,"['Animation', 'Science Fiction']","['Gérard Hernandez', 'Jean Valmont', 'Jennifer Drake']",French,René Laloux,0.8550106609808101
+194,The Nightmare Before Christmas,3.95,479839,"['Family', 'Animation', 'Fantasy']","['Danny Elfman', 'Chris Sarandon', ""Catherine O'Hara""]",English,Henry Selick,0.8422174840085288
+201,Coco,4.12,823087,"['Adventure', 'Animation', 'Music', 'Family']","['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt']",English,Lee Unkrich,0.8784648187633262
+203,Aladdin,3.88,241430,"['Adventure', 'Romance', 'Family', 'Fantasy', 'Animation']","['Scott Weinger', 'Robin Williams', 'Linda Larkin']",English,Ron Clements,0.8272921108742003
+211,WALL·E,4.19,785609,"['Animation', 'Science Fiction', 'Family']","['Ben Burtt', 'Elissa Knight', 'Jeff Garlin']",English,Andrew Stanton,0.8933901918976546
+220,Howl's Moving Castle,4.32,704108,"['Fantasy', 'Adventure', 'Animation']","['Chieko Baisho', 'Takuya Kimura', 'Akihiro Miwa']",Japanese,Hayao Miyazaki,0.9211087420042644
+243,Beauty and the Beast,3.88,202338,"['Romance', 'Fantasy', 'Family', 'Animation']","[""Paige O'Hara"", 'Robby Benson', 'Richard White']",English,Gary Trousdale,0.8272921108742003
+247,Snow White and the Seven Dwarfs,3.43,90455,"['Animation', 'Family', 'Fantasy']","['Adriana Caselotti', 'Lucille La Verne', 'Harry Stockwell']",English,David Hand,0.7313432835820896
+248,Your Name.,4.21,387201,"['Romance', 'Animation', 'Drama']","['Ryunosuke Kamiki', 'Mone Kamishiraishi', 'Ryo Narita']",Japanese,Makoto Shinkai,0.8976545842217483
+251,Ghost in the Shell,4.08,115733,"['Animation', 'Science Fiction', 'Action']","['Atsuko Tanaka', 'Akio Otsuka', 'Iemasa Kayumi']",Japanese,Mamoru Oshii,0.8699360341151385
+280,The Lego Movie,3.79,299389,"['Family', 'Animation', 'Adventure', 'Fantasy', 'Comedy']","['Chris Pratt', 'Elizabeth Banks', 'Will Ferrell']",English,Phil Lord,0.8081023454157782
+285,"Monsters, Inc.",4.07,597882,"['Comedy', 'Animation', 'Family']","['John Goodman', 'Billy Crystal', 'Mary Gibbs']",English,Pete Docter,0.8678038379530917
+297,Cinderella,3.48,70019,"['Fantasy', 'Animation', 'Family', 'Romance']","['Ilene Woods', 'Eleanor Audley', 'Verna Felton']",English,Hamilton Luske,0.742004264392324
+299,Soul,3.94,626776,"['Family', 'Animation', 'Comedy', 'Fantasy']","['Jamie Foxx', 'Tina Fey', 'Graham Norton']",English,Pete Docter,0.8400852878464818
+302,Who Framed Roger Rabbit,3.94,135641,"['Animation', 'Crime', 'Comedy', 'Fantasy']","['Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy']",English,Robert Zemeckis,0.8400852878464818
+307,The Tale of the Princess Kaguya,4.23,78976,"['Fantasy', 'Animation', 'Drama']","['Aki Asakura', 'Takeo Chii', 'Nobuko Miyamoto']",Japanese,Isao Takahata,0.9019189765458422
+321,Only Yesterday,3.93,44373,"['Drama', 'Romance', 'Animation']","['Miki Imai', 'Toshiro Yanagiba', 'Yoko Honna']",Japanese,Isao Takahata,0.8379530916844349
+323,Alice in Wonderland,3.74,116916,"['Fantasy', 'Animation', 'Family', 'Adventure']","['Kathryn Beaumont', 'Ed Wynn', 'Richard Haydn']",English,Hamilton Luske,0.7974413646055437
+330,How the Grinch Stole Christmas!,3.87,39574,"['Family', 'Comedy', 'Animation']","['Boris Karloff', 'June Foray', 'Dal McKennon']",English,Chuck Jones,0.8251599147121534
+333,Whisper of the Heart,4.15,121303,"['Drama', 'Animation', 'Family']","['Yoko Honna', 'Issey Takahashi', 'Takashi Tachibana']",Japanese,Yoshifumi Kondo,0.8848614072494669
+334,It's Such a Beautiful Day,4.38,48518,"['Comedy', 'Animation']","['Don Hertzfeldt', 'Sara Cushman']",English,Don Hertzfeldt,0.9339019189765457
+435,Fantastic Mr. Fox,4.27,762856,"['Family', 'Adventure', 'Comedy', 'Animation']","['George Clooney', 'Meryl Streep', 'Jason Schwartzman']",English,Wes Anderson,0.9104477611940297
+437,Ponyo,4.04,302556,"['Family', 'Fantasy', 'Animation']","['Yuria Kozuki', 'Hiroki Doi', 'George Tokoro']",Japanese,Hayao Miyazaki,0.8614072494669509
+447,The Incredibles,4.07,632887,"['Animation', 'Family', 'Adventure', 'Action']","['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell']",English,Brad Bird,0.8678038379530917
+463,Paprika,4.08,143893,"['Animation', 'Thriller', 'Science Fiction', 'Drama', 'Fantasy', 'Mystery']","['Megumi Hayashibara', 'Tohru Emori', 'Katsunosuke Hori']",Japanese,Satoshi Kon,0.8699360341151385
+502,Fantasia,3.9,84321,"['Family', 'Fantasy', 'Animation']","['Deems Taylor', 'Walt Disney', 'Julietta Novis']",English,David Hand,0.8315565031982941
+518,My Life as a Zucchini,4.15,62776,"['Drama', 'Comedy', 'Romance', 'Family', 'Animation']","['Gaspard Schlatter', 'Sixtine Murat', 'Paulin Jaccoud']",French,Claude Barras,0.8848614072494669
+589,The Breadwinner,4.04,23644,"['Family', 'Drama', 'Animation', 'War']","['Saara Chaudry', 'Soma Bhatia', 'Laara Sadiq']",English,Nora Twomey,0.8614072494669509
+633,Mulan,4.08,324195,"['Family', 'Adventure', 'Animation']","['Ming-Na Wen', 'Eddie Murphy', 'BD Wong']",English,Tony Bancroft,0.8699360341151385
+641,Puss in Boots: The Last Wish,4.15,484524,"['Animation', 'Family', 'Fantasy', 'Action', 'Comedy', 'Adventure']","['Antonio Banderas', 'Salma Hayek Pinault', 'Harvey Guillén']",English,Joel Crawford,0.8848614072494669
+657,Perfect Blue,4.4,318469,"['Thriller', 'Animation']","['Junko Iwao', 'Rica Matsumoto', 'Shiho Niiyama']",Japanese,Satoshi Kon,0.9381663113006397

@@ -1,0 +1,681 @@
+,rating,likes,genre,top cast,language,director
+Psycho,4.32,403790,"['Mystery', 'Thriller', 'Horror']","['Anthony Perkins', 'Janet Leigh', 'Vera Miles']",English,Alfred Hitchcock
+2001: A Space Odyssey,4.3,447180,"['Adventure', 'Mystery', 'Science Fiction']","['Keir Dullea', 'Gary Lockwood', 'William Sylvester']",English,Stanley Kubrick
+Schindler's List,4.52,356548,"['History', 'Drama', 'War']","['Liam Neeson', 'Ben Kingsley', 'Ralph Fiennes']",English,Steven Spielberg
+GoodFellas,4.48,596488,"['Drama', 'Crime']","['Ray Liotta', 'Robert De Niro', 'Joe Pesci']",English,Martin Scorsese
+Back to the Future,4.2,777751,"['Comedy', 'Science Fiction', 'Adventure']","['Michael J. Fox', 'Christopher Lloyd', 'Crispin Glover']",English,Robert Zemeckis
+Lawrence of Arabia,4.35,79471,"['Adventure', 'War', 'History']","[""Peter O'Toole"", 'Alec Guinness', 'Anthony Quinn']",English,David Lean
+The Virgin Suicides,3.82,244142,"['Romance', 'Drama']","['James Woods', 'Kathleen Turner', 'Kirsten Dunst']",English,Sofia Coppola
+Come and See,4.64,122563,"['War', 'Drama']","['Aleksei Kravchenko', 'Olga Mironova', 'Liubomiras Laucevicius']",Russian,Elem Klimov
+The Prince of Egypt,3.99,110193,"['Adventure', 'Animation', 'Family', 'Drama']","['Val Kilmer', 'Ralph Fiennes', 'Michelle Pfeiffer']",English,Simon Wells
+The Princess Bride,4.04,303186,"['Adventure', 'Romance', 'Fantasy', 'Family', 'Comedy']","['Cary Elwes', 'Robin Wright', 'Mandy Patinkin']",English,Rob Reiner
+Spirited Away,4.46,1204588,"['Family', 'Fantasy', 'Animation']","['Rumi Hiiragi', 'Miyu Irino', 'Mari Natsuki']",Japanese,Hayao Miyazaki
+The Shawshank Redemption,4.55,751726,"['Crime', 'Drama']","['Tim Robbins', 'Morgan Freeman', 'Bob Gunton']",English,Frank Darabont
+Mad Max: Fury Road,4.17,685323,"['Adventure', 'Science Fiction', 'Action']","['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult']",English,George Miller
+12 Angry Men,4.62,344594,['Drama'],"['Martin Balsam', 'John Fiedler', 'Lee J. Cobb']",English,Sidney Lumet
+High and Low,4.58,47576,"['Crime', 'Drama', 'Thriller']","['Toshirō Mifune', 'Tatsuya Nakadai', 'Kyōko Kagawa']",Japanese,Akira Kurosawa
+Spider-Man: Into the Spider-Verse,4.43,1654380,"['Adventure', 'Animation', 'Science Fiction', 'Action']","['Shameik Moore', 'Jake Johnson', 'Hailee Steinfeld']",English,Rodney Rothman
+Ikiru,4.51,55095,['Drama'],"['Takashi Shimura', 'Haruo Tanaka', 'Nobuo Kaneko']",Japanese,Akira Kurosawa
+The Apartment,4.43,96945,"['Drama', 'Romance', 'Comedy']","['Jack Lemmon', 'Shirley MacLaine', 'Fred MacMurray']",English,Billy Wilder
+Fight Club,4.27,1592688,['Drama'],"['Edward Norton', 'Brad Pitt', 'Helena Bonham Carter']",English,David Fincher
+Do the Right Thing,4.4,157061,['Drama'],"['Danny Aiello', 'Spike Lee', 'Ossie Davis']",English,Spike Lee
+Jojo Rabbit,4.03,742020,"['War', 'Drama', 'Comedy']","['Roman Griffin Davis', 'Thomasin McKenzie', 'Scarlett Johansson']",English,Taika Waititi
+Heat,4.27,241782,"['Crime', 'Action', 'Drama']","['Robert De Niro', 'Al Pacino', 'Val Kilmer']",English,Michael Mann
+Children of Men,4.3,230732,"['Action', 'Drama', 'Science Fiction', 'Thriller']","['Clive Owen', 'Julianne Moore', 'Clare-Hope Ashitey']",English,Alfonso Cuarón
+Citizen Kane,4.21,178874,"['Drama', 'Mystery']","['Orson Welles', 'Joseph Cotten', 'Dorothy Comingore']",English,Orson Welles
+Harakiri,4.69,59047,"['History', 'Drama', 'Action']","['Tatsuya Nakadai', 'Akira Ishihama', 'Shima Iwashita']",Japanese,Masaki Kobayashi
+The Wizard of Oz,3.96,176570,"['Adventure', 'Family', 'Fantasy']","['Judy Garland', 'Ray Bolger', 'Jack Haley']",English,Victor Fleming
+Titanic,3.8,619466,"['Drama', 'Romance']","['Leonardo DiCaprio', 'Kate Winslet', 'Billy Zane']",English,James Cameron
+A Silent Voice,4.15,161321,"['Drama', 'Animation']","['Miyu Irino', 'Saori Hayami', 'Aoi Yuki']",Japanese,Naoko Yamada
+Eternal Sunshine of the Spotless Mind,4.24,944141,"['Science Fiction', 'Romance', 'Drama']","['Jim Carrey', 'Kate Winslet', 'Kirsten Dunst']",English,Michel Gondry
+Good Will Hunting,4.29,621050,['Drama'],"['Matt Damon', 'Robin Williams', 'Ben Affleck']",English,Gus Van Sant
+City of God,4.52,274868,"['Drama', 'Crime']","['Alexandre Rodrigues', 'Leandro Firmino', 'Phellipe Haagensen']",Portuguese,Fernando Meirelles
+The Elephant Man,4.23,88903,"['History', 'Drama']","['Anthony Hopkins', 'John Hurt', 'Anne Bancroft']",English,David Lynch
+Casablanca,4.28,218284,"['Drama', 'Romance']","['Humphrey Bogart', 'Ingrid Bergman', 'Paul Henreid']",English,Michael Curtiz
+Requiem for a Dream,4.1,358258,"['Drama', 'Crime']","['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly']",English,Darren Aronofsky
+Finding Nemo,4.04,596281,"['Animation', 'Family']","['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould']",English,Andrew Stanton
+The Godfather: Part II,4.59,379044,"['Crime', 'Drama']","['Al Pacino', 'Robert Duvall', 'Diane Keaton']",English,Francis Ford Coppola
+Pulp Fiction,4.27,1396778,"['Crime', 'Thriller']","['John Travolta', 'Samuel L. Jackson', 'Uma Thurman']",English,Quentin Tarantino
+Clue,3.84,125161,"['Mystery', 'Crime', 'Thriller', 'Comedy']","['Tim Curry', 'Eileen Brennan', 'Madeline Kahn']",English,Jonathan Lynn
+It's a Wonderful Life,4.39,199354,"['Family', 'Drama', 'Fantasy']","['James Stewart', 'Donna Reed', 'Lionel Barrymore']",English,Frank Capra
+Kung Fu Panda,3.83,294240,"['Comedy', 'Action', 'Family', 'Adventure', 'Animation']","['Jack Black', 'Angelina Jolie', 'Dustin Hoffman']",English,Mark Osborne
+There Will Be Blood,4.45,360205,['Drama'],"['Daniel Day-Lewis', 'Paul Dano', ""Kevin J. O'Connor""]",English,Paul Thomas Anderson
+Memento,4.17,473924,"['Mystery', 'Thriller']","['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano']",English,Christopher Nolan
+The Thing,4.35,357871,"['Mystery', 'Science Fiction', 'Horror']","['Kurt Russell', 'Keith David', 'Wilford Brimley']",English,John Carpenter
+Amadeus,4.32,136266,"['History', 'Drama', 'Music']","['F. Murray Abraham', 'Tom Hulce', 'Elizabeth Berridge']",English,Miloš Forman
+The Truman Show,4.21,1185407,"['Comedy', 'Drama']","['Jim Carrey', 'Laura Linney', 'Noah Emmerich']",English,Peter Weir
+American History X,4.12,188433,['Drama'],"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo""]",English,Tony Kaye
+Akira,4.27,257590,"['Animation', 'Action', 'Science Fiction']","['Mitsuo Iwata', 'Nozomu Sasaki', 'Mami Koyama']",Japanese,Katsuhiro Otomo
+City Lights,4.34,55678,"['Drama', 'Comedy', 'Romance']","['Charlie Chaplin', 'Virginia Cherrill', 'Harry Myers']",English,Charlie Chaplin
+The Godfather,4.55,762284,"['Crime', 'Drama']","['Marlon Brando', 'Al Pacino', 'James Caan']",English,Francis Ford Coppola
+The Matrix,4.16,824864,"['Science Fiction', 'Action']","['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss']",English,Lilly Wachowski
+Before Sunrise,4.33,395224,"['Romance', 'Drama']","['Ethan Hawke', 'Julie Delpy', 'Andrea Eckert']",English,Richard Linklater
+Toy Story,4.13,632705,"['Comedy', 'Animation', 'Family', 'Adventure']","['Tom Hanks', 'Tim Allen', 'Don Rickles']",English,John Lasseter
+The Lion King,4.21,560975,"['Animation', 'Family', 'Drama']","['Matthew Broderick', 'Moira Kelly', 'Nathan Lane']",English,Roger Allers
+When Harry Met Sally...,4.04,252520,"['Drama', 'Romance', 'Comedy']","['Meg Ryan', 'Billy Crystal', 'Bruno Kirby']",English,Rob Reiner
+Up,4.09,808338,"['Animation', 'Adventure', 'Family', 'Comedy']","['Ed Asner', 'Christopher Plummer', 'Jordan Nagai']",English,Pete Docter
+Stand by Me,4.14,266889,"['Drama', 'Crime']","['Wil Wheaton', 'River Phoenix', ""Jerry O'Connell""]",English,Rob Reiner
+The Sandlot,3.71,56023,"['Comedy', 'Family']","['Tom Guiry', 'Mike Vitar', 'Patrick Renna']",English,David Mickey Evans
+E.T. the Extra-Terrestrial,3.85,306625,"['Science Fiction', 'Fantasy', 'Adventure', 'Family']","['Henry Thomas', 'Drew Barrymore', 'Robert MacNaughton']",English,Steven Spielberg
+Seven Samurai,4.6,136756,"['Drama', 'Action']","['Toshirō Mifune', 'Takashi Shimura', 'Yoshio Inaba']",Japanese,Akira Kurosawa
+Grave of the Fireflies,4.45,224790,"['War', 'Drama', 'Animation']","['Tsutomu Tatsumi', 'Ayano Shiraishi', 'Yoshiko Shinohara']",Japanese,Isao Takahata
+Millennium Actress,4.22,41565,"['Romance', 'Animation', 'Drama']","['Miyoko Shoji', 'Mami Koyama', 'Fumiko Orikasa']",Japanese,Satoshi Kon
+Groundhog Day,3.84,222460,"['Comedy', 'Drama', 'Fantasy', 'Romance']","['Bill Murray', 'Andie MacDowell', 'Chris Elliott']",English,Harold Ramis
+Interstellar,4.33,1492038,"['Science Fiction', 'Drama', 'Adventure']","['Matthew McConaughey', 'Anne Hathaway', 'Jessica Chastain']",English,Christopher Nolan
+Charade,3.99,46225,"['Romance', 'Mystery', 'Comedy']","['Cary Grant', 'Audrey Hepburn', 'Walter Matthau']",English,Stanley Donen
+La Haine,4.51,234458,['Drama'],"['Vincent Cassel', 'Hubert Koundé', 'Saïd Taghmaoui']",French,Mathieu Kassovitz
+Amélie,4.16,402263,"['Romance', 'Comedy']","['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus']",French,Jean-Pierre Jeunet
+Life Is Beautiful,4.33,172570,"['Comedy', 'Drama']","['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini']",Italian,Roberto Benigni
+In the Mood for Love,4.4,272364,"['Drama', 'Romance']","['Tony Leung Chiu-wai', 'Maggie Cheung', 'Rebecca Pan']",Cantonese,Wong Kar-wai
+Alien,4.28,493704,"['Horror', 'Science Fiction']","['Sigourney Weaver', 'Tom Skerritt', 'Ian Holm']",English,Ridley Scott
+Star Wars,4.18,805348,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Harrison Ford', 'Carrie Fisher']",English,George Lucas
+Vertigo,4.24,220057,"['Romance', 'Thriller', 'Mystery']","['James Stewart', 'Kim Novak', 'Barbara Bel Geddes']",English,Alfred Hitchcock
+The Shining,4.24,991945,"['Horror', 'Thriller']","['Jack Nicholson', 'Shelley Duvall', 'Danny Lloyd']",English,Stanley Kubrick
+Roman Holiday,4.14,74621,"['Romance', 'Drama', 'Comedy']","['Audrey Hepburn', 'Gregory Peck', 'Eddie Albert']",English,William Wyler
+Run Lola Run,3.82,54726,"['Action', 'Thriller', 'Drama']","['Franka Potente', 'Moritz Bleibtreu', 'Herbert Knaup']",German,Tom Tykwer
+The Dark Knight,4.46,1475597,"['Action', 'Drama', 'Thriller', 'Crime']","['Christian Bale', 'Heath Ledger', 'Michael Caine']",English,Christopher Nolan
+Cast Away,3.86,163426,"['Drama', 'Adventure']","['Tom Hanks', 'Helen Hunt', 'Chris Noth']",English,Robert Zemeckis
+The Grand Budapest Hotel,4.25,1057853,"['Drama', 'Comedy']","['Ralph Fiennes', 'F. Murray Abraham', 'Tony Revolori']",English,Wes Anderson
+The Graduate,4.12,139372,"['Comedy', 'Drama', 'Romance']","['Anne Bancroft', 'Dustin Hoffman', 'Katharine Ross']",English,Mike Nichols
+Midnight in Paris,3.71,215073,"['Comedy', 'Fantasy', 'Romance']","['Owen Wilson', 'Rachel McAdams', 'Kurt Fuller']",English,Woody Allen
+The SpongeBob SquarePants Movie,3.85,134888,"['Adventure', 'Comedy', 'Fantasy', 'Family', 'Animation']","['Tom Kenny', 'Clancy Brown', 'Rodger Bumpass']",English,Stephen Hillenburg
+Mean Girls,3.83,664080,['Comedy'],"['Lindsay Lohan', 'Rachel McAdams', 'Lizzy Caplan']",English,Mark Waters
+Singin' in the Rain,4.32,185416,"['Romance', 'Comedy']","['Gene Kelly', ""Donald O'Connor"", 'Debbie Reynolds']",English,Stanley Donen
+Y Tu Mamá También,4.19,90450,"['Romance', 'Drama']","['Diego Luna', 'Gael García Bernal', 'Maribel Verdú']",Spanish,Alfonso Cuarón
+RRR,4.19,113581,"['Action', 'Drama']","['N.T. Rama Rao Jr.', 'Ram Charan', 'Olivia Morris']",Telugu,S. S. Rajamouli
+Ratatouille,4.2,993548,"['Animation', 'Family', 'Comedy', 'Fantasy']","['Patton Oswalt', 'Lou Romano', 'Ian Holm']",English,Brad Bird
+Se7en,4.32,877439,"['Crime', 'Mystery', 'Thriller']","['Morgan Freeman', 'Brad Pitt', 'Gwyneth Paltrow']",English,David Fincher
+Princess Mononoke,4.37,454900,"['Adventure', 'Fantasy', 'Animation']","['Youji Matsuda', 'Yuriko Ishida', 'Yûko Tanaka']",Japanese,Hayao Miyazaki
+Scream,4.02,528714,"['Mystery', 'Crime', 'Horror']","['David Arquette', 'Neve Campbell', 'Courteney Cox']",English,Wes Craven
+Spider-Man 2,3.88,499802,"['Action', 'Science Fiction', 'Adventure']","['Tobey Maguire', 'Kirsten Dunst', 'James Franco']",English,Sam Raimi
+Blade Runner,4.1,458472,"['Thriller', 'Drama', 'Science Fiction']","['Harrison Ford', 'Rutger Hauer', 'Sean Young']",English,Ridley Scott
+Eyes Wide Shut,4.0,244545,"['Thriller', 'Drama', 'Mystery']","['Tom Cruise', 'Nicole Kidman', 'Sydney Pollack']",English,Stanley Kubrick
+The Notebook,3.65,294182,"['Romance', 'Drama']","['Ryan Gosling', 'Rachel McAdams', 'Gena Rowlands']",English,Nick Cassavetes
+La La Land,4.06,1265452,"['Drama', 'Comedy', 'Music', 'Romance']","['Ryan Gosling', 'Emma Stone', 'John Legend']",English,Damien Chazelle
+Spotlight,4.08,168013,"['History', 'Drama']","['Mark Ruffalo', 'Michael Keaton', 'Rachel McAdams']",English,Tom McCarthy
+The Philadelphia Story,3.99,28208,"['Romance', 'Comedy']","['Cary Grant', 'Katharine Hepburn', 'James Stewart']",English,George Cukor
+Everything Everywhere All at Once,4.31,1373934,"['Science Fiction', 'Action', 'Adventure']","['Michelle Yeoh', 'Stephanie Hsu', 'Ke Huy Quan']",English,Daniel Scheinert
+Scarface,4.11,339017,"['Drama', 'Crime', 'Action']","['Al Pacino', 'Steven Bauer', 'Michelle Pfeiffer']",English,Brian De Palma
+The Avengers,3.64,634288,"['Science Fiction', 'Adventure', 'Action']","['Robert Downey Jr.', 'Chris Evans', 'Mark Ruffalo']",English,Joss Whedon
+Prisoners,4.28,508456,"['Thriller', 'Crime', 'Drama']","['Hugh Jackman', 'Jake Gyllenhaal', 'Terrence Howard']",English,Denis Villeneuve
+The Exorcist,3.99,248945,"['Thriller', 'Drama', 'Horror']","['Jason Miller', 'Ellen Burstyn', 'Linda Blair']",English,William Friedkin
+Forrest Gump,4.12,1012006,"['Drama', 'Comedy', 'Romance']","['Tom Hanks', 'Robin Wright', 'Gary Sinise']",English,Robert Zemeckis
+The Pursuit of Happyness,3.87,169381,['Drama'],"['Will Smith', 'Jaden Smith', 'Thandiwe Newton']",English,Gabriele Muccino
+"Paris, Texas",4.4,158162,['Drama'],"['Harry Dean Stanton', 'Nastassja Kinski', 'Dean Stockwell']",English,Wim Wenders
+Terminator 2: Judgment Day,4.28,272845,"['Thriller', 'Action', 'Science Fiction']","['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong']",English,James Cameron
+Speed Racer,3.37,55172,"['Adventure', 'Action', 'Family', 'Comedy']","['Emile Hirsch', 'Christina Ricci', 'John Goodman']",English,Lilly Wachowski
+Whiplash,4.43,1276294,"['Drama', 'Music']","['Miles Teller', 'J.K. Simmons', 'Paul Reiser']",English,Damien Chazelle
+Django Unchained,4.27,946079,"['Drama', 'Western']","['Jamie Foxx', 'Christoph Waltz', 'Leonardo DiCaprio']",English,Quentin Tarantino
+Taxi Driver,4.17,634826,"['Drama', 'Crime']","['Robert De Niro', 'Jodie Foster', 'Cybill Shepherd']",English,Martin Scorsese
+Home Alone,3.79,513781,"['Family', 'Comedy']","['Macaulay Culkin', 'Joe Pesci', 'Daniel Stern']",English,Chris Columbus
+Mulholland Drive,4.24,287437,"['Mystery', 'Drama', 'Thriller']","['Naomi Watts', 'Laura Harring', 'Justin Theroux']",English,David Lynch
+Aftersun,4.24,378514,['Drama'],"['Paul Mescal', 'Frankie Corio', 'Brooklyn Toulson']",English,Charlotte Wells
+Scent of a Woman,3.86,66024,"['Drama', 'Comedy']","[""Chris O'Donnell"", 'Al Pacino', 'James Rebhorn']",English,Martin Brest
+Cinema Paradiso,4.44,140022,"['Drama', 'Romance']","['Philippe Noiret', 'Jacques Perrin', 'Marco Leonardi']",Italian,Giuseppe Tornatore
+Jurassic Park,4.11,609816,"['Science Fiction', 'Adventure']","['Sam Neill', 'Laura Dern', 'Jeff Goldblum']",English,Steven Spielberg
+Shrek,4.06,610075,"['Adventure', 'Fantasy', 'Family', 'Animation', 'Comedy']","['Mike Myers', 'Eddie Murphy', 'Cameron Diaz']",English,Andrew Adamson
+Gone with the Wind,3.84,54326,"['Romance', 'Drama', 'War']","['Vivien Leigh', 'Clark Gable', 'Olivia de Havilland']",English,Victor Fleming
+Punch-Drunk Love,4.0,165439,"['Drama', 'Romance', 'Comedy']","['Adam Sandler', 'Emily Watson', 'Philip Seymour Hoffman']",English,Paul Thomas Anderson
+Hacksaw Ridge,3.89,194927,"['War', 'Drama', 'History']","['Andrew Garfield', 'Sam Worthington', 'Vince Vaughn']",English,Mel Gibson
+The Tree of Life,3.86,81168,"['Fantasy', 'Drama']","['Brad Pitt', 'Sean Penn', 'Jessica Chastain']",English,Terrence Malick
+Mr. Nobody,3.66,53918,"['Romance', 'Drama', 'Science Fiction']","['Jared Leto', 'Sarah Polley', 'Diane Kruger']",English,Jaco Van Dormael
+Saving Private Ryan,4.23,352752,"['History', 'Drama', 'War']","['Tom Hanks', 'Tom Sizemore', 'Edward Burns']",English,Steven Spielberg
+To Kill a Mockingbird,4.08,69808,['Drama'],"['Gregory Peck', 'Mary Badham', 'Phillip Alford']",English,Robert Mulligan
+Network,4.26,56696,['Drama'],"['Faye Dunaway', 'William Holden', 'Peter Finch']",English,Sidney Lumet
+Dead Poets Society,4.24,688264,['Drama'],"['Robin Williams', 'Ethan Hawke', 'Robert Sean Leonard']",English,Peter Weir
+The Best of Youth,4.27,5545,"['History', 'Drama', 'Romance']","['Luigi Lo Cascio', 'Alessio Boni', 'Adriana Asti']",Italian,Marco Tullio Giordana
+One Flew Over the Cuckoo's Nest,4.36,277077,['Drama'],"['Jack Nicholson', 'Brad Dourif', 'Louise Fletcher']",English,Miloš Forman
+The Thin Red Line,4.08,52100,"['War', 'Drama', 'History']","['Jim Caviezel', 'Ben Chaplin', 'Dash Mihok']",English,Terrence Malick
+The Breakfast Club,3.75,585985,"['Drama', 'Comedy']","['Emilio Estevez', 'Judd Nelson', 'Molly Ringwald']",English,John Hughes
+Rocky,4.07,218028,['Drama'],"['Sylvester Stallone', 'Talia Shire', 'Burt Young']",English,John G. Avildsen
+Tokyo Story,4.43,48608,['Drama'],"['Chishū Ryū', 'Chieko Higashiyama', 'Setsuko Hara']",Japanese,Yasujirō Ozu
+Strangers on a Train,4.05,41067,"['Romance', 'Crime', 'Thriller']","['Farley Granger', 'Ruth Roman', 'Robert Walker']",English,Alfred Hitchcock
+My Cousin Vinny,3.88,71427,['Comedy'],"['Joe Pesci', 'Ralph Macchio', 'Marisa Tomei']",English,Jonathan Lynn
+Parasite,4.56,2075331,"['Comedy', 'Thriller', 'Drama']","['Song Kang-ho', 'Lee Sun-kyun', 'Cho Yeo-jeong']",Korean,Bong Joon-ho
+Incendies,4.4,92272,"['Mystery', 'War', 'Drama']","['Lubna Azabal', 'Mélissa Désormeaux-Poulin', 'Maxim Gaudette']",French,Denis Villeneuve
+Ed Wood,4.06,50180,"['Comedy', 'Drama', 'History']","['Johnny Depp', 'Martin Landau', 'Sarah Jessica Parker']",English,Tim Burton
+The Social Network,3.95,741571,['Drama'],"['Jesse Eisenberg', 'Andrew Garfield', 'Armie Hammer']",English,David Fincher
+Moonlight,4.2,500165,['Drama'],"['Trevante Rhodes', 'André Holland', 'Janelle Monáe']",English,Barry Jenkins
+10 Things I Hate About You,3.98,812431,"['Comedy', 'Romance', 'Drama']","['Heath Ledger', 'Julia Stiles', 'Joseph Gordon-Levitt']",English,Gil Junger
+The Usual Suspects,4.06,190387,"['Drama', 'Crime', 'Thriller']","['Kevin Spacey', 'Gabriel Byrne', 'Stephen Baldwin']",English,Bryan Singer
+My Neighbor Totoro,4.19,560265,"['Fantasy', 'Animation', 'Family']","['Noriko Hidaka', 'Chika Sakamoto', 'Hitoshi Takagi']",Japanese,Hayao Miyazaki
+White Men Can't Jump,3.5,22302,"['Comedy', 'Drama']","['Wesley Snipes', 'Woody Harrelson', 'Rosie Perez']",English,Ron Shelton
+Remember the Titans,3.77,54454,['Drama'],"['Denzel Washington', 'Will Patton', 'Wood Harris']",English,Boaz Yakin
+The Iron Giant,4.24,218933,"['Science Fiction', 'Animation', 'Family', 'Adventure']","['Vin Diesel', 'Eli Marienthal', 'Jennifer Aniston']",English,Brad Bird
+Office Space,3.73,91698,['Comedy'],"['Ron Livingston', 'Jennifer Aniston', 'David Herman']",English,Mike Judge
+Harry Potter and the Philosopher's Stone,3.75,628073,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson']",English,Chris Columbus
+The Goonies,3.77,158130,"['Adventure', 'Family', 'Comedy']","['Sean Astin', 'Josh Brolin', 'Jeff Cohen']",English,Richard Donner
+The Sting,4.17,47531,"['Drama', 'Comedy', 'Crime']","['Paul Newman', 'Robert Redford', 'Robert Shaw']",English,George Roy Hill
+Inside Out,3.82,720787,"['Comedy', 'Family', 'Animation', 'Adventure', 'Drama']","['Amy Poehler', 'Phyllis Smith', 'Bill Hader']",English,Pete Docter
+Manchester by the Sea,4.1,212585,['Drama'],"['Casey Affleck', 'Lucas Hedges', 'Michelle Williams']",English,Kenneth Lonergan
+The Room,2.6,81751,"['Romance', 'Drama']","['Juliette Danielle', 'Tommy Wiseau', 'Greg Sestero']",English,Tommy Wiseau
+Life,3.36,7158,"['Comedy', 'Crime']","['Eddie Murphy', 'Martin Lawrence', 'Obba Babatundé']",English,Ted Demme
+A Knight's Tale,3.53,58675,"['Drama', 'Romance', 'Adventure', 'Action']","['Heath Ledger', 'Rufus Sewell', 'Shannyn Sossamon']",English,Brian Helgeland
+"Synecdoche, New York",4.18,92172,['Drama'],"['Philip Seymour Hoffman', 'Samantha Morton', 'Jennifer Jason Leigh']",English,Charlie Kaufman
+The Fifth Element,3.74,140042,"['Fantasy', 'Action', 'Thriller', 'Science Fiction', 'Adventure']","['Bruce Willis', 'Milla Jovovich', 'Gary Oldman']",English,Luc Besson
+Stalker,4.43,119902,"['Drama', 'Science Fiction']","['Aleksandr Kaydanovskiy', 'Anatoliy Solonitsyn', 'Nikolay Grinko']",Russian,Andrei Tarkovsky
+Hot Fuzz,4.08,303468,"['Action', 'Crime', 'Comedy']","['Simon Pegg', 'Nick Frost', 'Jim Broadbent']",English,Edgar Wright
+American Beauty,3.96,327194,['Drama'],"['Kevin Spacey', 'Annette Bening', 'Thora Birch']",English,Sam Mendes
+Fantastic Planet,4.01,76270,"['Animation', 'Science Fiction']","['Gérard Hernandez', 'Jean Valmont', 'Jennifer Drake']",French,René Laloux
+The Sixth Sense,4.02,278260,"['Thriller', 'Mystery', 'Horror', 'Drama']","['Bruce Willis', 'Haley Joel Osment', 'Toni Collette']",English,M. Night Shyamalan
+The Treasure of the Sierra Madre,4.28,27487,"['Drama', 'Western', 'Adventure']","['Humphrey Bogart', 'Walter Huston', 'Tim Holt']",English,John Huston
+A Prophet,4.14,16448,"['Crime', 'Drama']","['Tahar Rahim', 'Niels Arestrup', 'Adel Bencherif']",French,Jacques Audiard
+Portrait of a Lady on Fire,4.43,376786,"['Drama', 'Romance']","['Noémie Merlant', 'Adèle Haenel', 'Luàna Bajrami']",French,Céline Sciamma
+Gladiator,4.1,310972,"['Action', 'Adventure', 'Drama']","['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen']",English,Ridley Scott
+The Intouchables,4.11,167651,"['Drama', 'Comedy']","['François Cluzet', 'Omar Sy', 'Dominique Henry']",French,Éric Toledano
+Bridesmaids,3.42,129714,"['Comedy', 'Romance']","['Kristen Wiig', 'Maya Rudolph', 'Rose Byrne']",English,Paul Feig
+Kill Bill: Vol. 1,4.19,825860,"['Crime', 'Action']","['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox']",English,Quentin Tarantino
+Training Day,3.96,107601,"['Action', 'Drama', 'Crime']","['Ethan Hawke', 'Denzel Washington', 'Scott Glenn']",English,Antoine Fuqua
+Rush Hour,3.52,90855,"['Crime', 'Action', 'Comedy']","['Jackie Chan', 'Chris Tucker', 'Tom Wilkinson']",English,Brett Ratner
+Mommy,4.31,98654,['Drama'],"['Anne Dorval', 'Antoine Olivier Pilon', 'Suzanne Clément']",French,Xavier Dolan
+The Hunt,4.29,128242,['Drama'],"['Mads Mikkelsen', 'Thomas Bo Larsen', 'Annika Wedderkopp']",Danish,Thomas Vinterberg
+Chungking Express,4.3,226506,"['Comedy', 'Drama', 'Romance']","['Takeshi Kaneshiro', 'Brigitte Lin', 'Tony Leung Chiu-wai']",Cantonese,Wong Kar-wai
+Memories of Murder,4.41,199067,"['Thriller', 'Drama', 'Crime']","['Song Kang-ho', 'Kim Sang-kyung', 'Kim Roi-ha']",Korean,Bong Joon-ho
+Shutter Island,4.1,801920,"['Mystery', 'Drama', 'Thriller']","['Leonardo DiCaprio', 'Mark Ruffalo', 'Ben Kingsley']",English,Martin Scorsese
+The Imitation Game,3.79,279301,"['Drama', 'Thriller', 'War', 'History']","['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode']",English,Morten Tyldum
+What Dreams May Come,3.34,16760,"['Romance', 'Fantasy', 'Drama']","['Robin Williams', 'Cuba Gooding Jr.', 'Annabella Sciorra']",English,Vincent Ward
+Warrior,4.0,59788,"['Action', 'Drama']","['Joel Edgerton', 'Tom Hardy', 'Nick Nolte']",English,Gavin O'Connor
+Children of Paradise,4.25,7863,"['Drama', 'Romance']","['Arletty', 'Jean-Louis Barrault', 'Pierre Brasseur']",French,Marcel Carné
+Christiane F.,3.88,30847,['Drama'],"['Natja Brunckhorst', 'Thomas Haustein', 'Jens Kuphal']",German,Uli Edel
+The Lives of Others,4.27,48822,"['Drama', 'Thriller']","['Martina Gedeck', 'Ulrich Mühe', 'Sebastian Koch']",German,Florian Henckel von Donnersmarck
+The Secret Life of Walter Mitty,3.72,169999,"['Comedy', 'Adventure', 'Fantasy', 'Drama']","['Ben Stiller', 'Kristen Wiig', 'Sean Penn']",English,Ben Stiller
+The Silence of the Lambs,4.33,840497,"['Horror', 'Crime', 'Thriller', 'Drama']","['Jodie Foster', 'Anthony Hopkins', 'Scott Glenn']",English,Jonathan Demme
+The Departed,4.3,404576,"['Crime', 'Thriller', 'Drama']","['Leonardo DiCaprio', 'Matt Damon', 'Jack Nicholson']",English,Martin Scorsese
+Speed,3.66,92522,"['Adventure', 'Action', 'Crime']","['Keanu Reeves', 'Dennis Hopper', 'Sandra Bullock']",English,Jan de Bont
+Bonnie and Clyde,3.91,39008,"['Crime', 'Drama']","['Warren Beatty', 'Faye Dunaway', 'Michael J. Pollard']",English,Arthur Penn
+Sling Blade,3.9,11165,['Drama'],"['Billy Bob Thornton', 'Dwight Yoakam', 'J.T. Walsh']",English,Billy Bob Thornton
+The Reader,3.58,24768,"['Romance', 'Drama']","['Kate Winslet', 'Ralph Fiennes', 'David Kross']",English,Stephen Daldry
+The Night of the Hunter,4.27,61633,"['Drama', 'Crime', 'Thriller']","['Billy Chapin', 'Robert Mitchum', 'Sally Jane Bruce']",English,Charles Laughton
+Inception,4.19,1308691,"['Action', 'Adventure', 'Science Fiction']","['Leonardo DiCaprio', 'Joseph Gordon-Levitt', 'Ken Watanabe']",English,Christopher Nolan
+Magnolia,4.22,146128,['Drama'],"['Jeremy Blackman', 'Tom Cruise', 'Melinda Dillon']",English,Paul Thomas Anderson
+The Big Lebowski,4.13,401812,"['Crime', 'Comedy']","['Jeff Bridges', 'John Goodman', 'Julianne Moore']",English,Joel Coen
+Misery,3.97,126534,"['Horror', 'Drama', 'Thriller']","['James Caan', 'Kathy Bates', 'Richard Farnsworth']",English,Rob Reiner
+Die Hard,4.07,312702,"['Thriller', 'Action']","['Bruce Willis', 'Alan Rickman', 'Alexander Godunov']",English,John McTiernan
+BlacKkKlansman,3.94,349110,"['Drama', 'Comedy', 'History', 'Crime']","['John David Washington', 'Adam Driver', 'Topher Grace']",English,Spike Lee
+Mission: Impossible,3.59,139966,"['Action', 'Thriller', 'Adventure']","['Tom Cruise', 'Jon Voight', 'Emmanuelle Béart']",English,Brian De Palma
+The Nightmare Before Christmas,3.95,479839,"['Family', 'Animation', 'Fantasy']","['Danny Elfman', 'Chris Sarandon', ""Catherine O'Hara""]",English,Henry Selick
+Superbad,3.88,510158,['Comedy'],"['Jonah Hill', 'Michael Cera', 'Christopher Mintz-Plasse']",English,Greg Mottola
+Trainspotting,4.19,342801,"['Drama', 'Crime']","['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller']",English,Danny Boyle
+Friday,3.54,44474,['Comedy'],"['Ice Cube', 'Chris Tucker', 'Nia Long']",English,F. Gary Gray
+The Princess Diaries,3.63,230625,"['Comedy', 'Family', 'Romance']","['Anne Hathaway', 'Julie Andrews', 'Patrick John Flueger']",English,Garry Marshall
+Raiders of the Lost Ark,4.16,389825,"['Adventure', 'Action']","['Harrison Ford', 'Karen Allen', 'Paul Freeman']",English,Steven Spielberg
+The Lord of the Rings: The Fellowship of the Ring,4.36,806772,"['Fantasy', 'Adventure', 'Action']","['Elijah Wood', 'Ian McKellen', 'Viggo Mortensen']",English,Peter Jackson
+Coco,4.12,823087,"['Adventure', 'Animation', 'Music', 'Family']","['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt']",English,Lee Unkrich
+Drive,3.94,559195,"['Thriller', 'Drama', 'Crime']","['Ryan Gosling', 'Carey Mulligan', 'Bryan Cranston']",English,Nicolas Winding Refn
+Aladdin,3.88,241430,"['Adventure', 'Romance', 'Family', 'Fantasy', 'Animation']","['Scott Weinger', 'Robin Williams', 'Linda Larkin']",English,Ron Clements
+Braveheart,3.86,102655,"['History', 'Action', 'Drama', 'War']","['Mel Gibson', 'Catherine McCormack', 'Sophie Marceau']",English,Mel Gibson
+Rain Man,3.86,97353,['Drama'],"['Dustin Hoffman', 'Tom Cruise', 'Valeria Golino']",English,Barry Levinson
+Goldfinger,3.78,47433,"['Action', 'Adventure', 'Thriller']","['Sean Connery', 'Gert Fröbe', 'Honor Blackman']",English,Guy Hamilton
+Step Brothers,3.43,124143,['Comedy'],"['Will Ferrell', 'John C. Reilly', 'Mary Steenburgen']",English,Adam McKay
+The King's Speech,3.78,117454,"['History', 'Drama']","['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter']",English,Tom Hooper
+Secrets & Lies,4.23,16144,['Drama'],"['Brenda Blethyn', 'Marianne Jean-Baptiste', 'Timothy Spall']",English,Mike Leigh
+A Man and a Woman,3.89,4363,"['Drama', 'Romance']","['Anouk Aimée', 'Jean-Louis Trintignant', 'Pierre Barouh']",French,Claude Lelouch
+WALL·E,4.19,785609,"['Animation', 'Science Fiction', 'Family']","['Ben Burtt', 'Elissa Knight', 'Jeff Garlin']",English,Andrew Stanton
+Raise the Red Lantern,4.28,15455,['Drama'],"['Gong Li', 'Ma Jingwu', 'He Saifei']",Chinese,Zhang Yimou
+A Taxi Driver,4.15,24182,"['Drama', 'History', 'Action']","['Song Kang-ho', 'Thomas Kretschmann', 'Yoo Hai-jin']",Korean,Jang Hoon
+Let the Right One In,4.05,73819,"['Horror', 'Drama']","['Kåre Hedebrant', 'Lina Leandersson', 'Per Ragnar']",Swedish,Tomas Alfredson
+What's Eating Gilbert Grape,3.8,95310,"['Drama', 'Romance']","['Johnny Depp', 'Juliette Lewis', 'Leonardo DiCaprio']",English,Lasse Hallström
+Catch Me If You Can,4.03,523518,"['Drama', 'Crime']","['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken']",English,Steven Spielberg
+The Big Sleep,3.97,23931,"['Thriller', 'Crime', 'Romance', 'Drama', 'Mystery']","['Humphrey Bogart', 'Lauren Bacall', 'John Ridgely']",English,Howard Hawks
+Amores Perros,4.15,61846,"['Thriller', 'Drama']","['Gael García Bernal', 'Vanessa Bauche', 'Goya Toledo']",Spanish,Alejandro González Iñárritu
+The Terminal,3.57,111401,"['Comedy', 'Drama']","['Tom Hanks', 'Catherine Zeta-Jones', 'Stanley Tucci']",English,Steven Spielberg
+Howl's Moving Castle,4.32,704108,"['Fantasy', 'Adventure', 'Animation']","['Chieko Baisho', 'Takuya Kimura', 'Akihiro Miwa']",Japanese,Hayao Miyazaki
+Jaws,3.97,379708,"['Adventure', 'Thriller', 'Horror']","['Roy Scheider', 'Robert Shaw', 'Richard Dreyfuss']",English,Steven Spielberg
+Pride & Prejudice,4.1,452770,"['Drama', 'Romance']","['Keira Knightley', 'Matthew Macfadyen', 'Brenda Blethyn']",English,Joe Wright
+Edward Scissorhands,3.86,410223,"['Drama', 'Romance', 'Fantasy']","['Johnny Depp', 'Winona Ryder', 'Dianne Wiest']",English,Tim Burton
+Moonstruck,3.77,52911,"['Drama', 'Romance', 'Comedy']","['Cher', 'Nicolas Cage', 'Vincent Gardenia']",English,Norman Jewison
+Airplane!,3.84,149740,['Comedy'],"['Robert Hays', 'Julie Hagerty', 'Leslie Nielsen']",English,Jerry Zucker
+Chicago,3.87,100472,"['Comedy', 'Crime', 'Drama']","['Renée Zellweger', 'Catherine Zeta-Jones', 'Richard Gere']",English,Rob Marshall
+Some Like It Hot,4.24,103577,"['Romance', 'Crime', 'Comedy']","['Tony Curtis', 'Jack Lemmon', 'Marilyn Monroe']",English,Billy Wilder
+Three Colours: Red,4.34,62685,"['Mystery', 'Drama', 'Romance']","['Irène Jacob', 'Jean-Louis Trintignant', 'Jean-Pierre Lorit']",French,Krzysztof Kieślowski
+Thelma & Louise,4.12,128744,"['Drama', 'Thriller', 'Adventure', 'Crime']","['Geena Davis', 'Susan Sarandon', 'Harvey Keitel']",English,Ridley Scott
+The 400 Blows,4.32,90704,['Drama'],"['Jean-Pierre Léaud', 'Claire Maurier', 'Albert Rémy']",French,François Truffaut
+Flame & Citron,3.56,1408,"['Drama', 'History', 'War']","['Thure Lindhardt', 'Mads Mikkelsen', 'Stine Stengade']",Danish,Ole Christian Madsen
+Kikujiro,3.98,9328,"['Comedy', 'Drama', 'Family']","['Takeshi Kitano', 'Yusuke Sekiguchi', 'Kayoko Kishimoto']",Japanese,Takeshi Kitano
+The Revenant,3.87,332495,"['Western', 'Adventure', 'Drama']","['Leonardo DiCaprio', 'Tom Hardy', 'Domhnall Gleeson']",English,Alejandro González Iñárritu
+My Life as a Dog,3.86,4219,"['Drama', 'Comedy']","['Anton Glanzelius', 'Tomas von Brömssen', 'Anki Lidén']",Swedish,Lasse Hallström
+Pierrot le Fou,4.04,44246,"['Romance', 'Crime', 'Drama']","['Jean-Paul Belmondo', 'Anna Karina', 'Graziella Galvani']",French,Jean-Luc Godard
+Sound of Metal,4.19,251440,"['Music', 'Drama']","['Riz Ahmed', 'Olivia Cooke', 'Paul Raci']",English,Darius Marder
+A Star Is Born,3.61,255944,"['Music', 'Romance', 'Drama']","['Lady Gaga', 'Bradley Cooper', 'Sam Elliott']",English,Bradley Cooper
+In Bruges,4.11,179685,"['Drama', 'Comedy', 'Crime']","['Colin Farrell', 'Brendan Gleeson', 'Ralph Fiennes']",English,Martin McDonagh
+Get Out,4.16,1382058,"['Horror', 'Mystery', 'Thriller']","['Daniel Kaluuya', 'Allison Williams', 'Bradley Whitford']",English,Jordan Peele
+The Secret in Their Eyes,4.18,40285,"['Thriller', 'Drama', 'Mystery']","['Ricardo Darín', 'Soledad Villamil', 'Pablo Rago']",Spanish,Juan José Campanella
+Boyhood,3.82,176027,['Drama'],"['Ellar Coltrane', 'Patricia Arquette', 'Ethan Hawke']",English,Richard Linklater
+Bicycle Thieves,4.31,79886,['Drama'],"['Lamberto Maggiorani', 'Enzo Staiola', 'Lianella Carell']",Italian,Vittorio De Sica
+Beauty and the Beast,3.88,202338,"['Romance', 'Fantasy', 'Family', 'Animation']","[""Paige O'Hara"", 'Robby Benson', 'Richard White']",English,Gary Trousdale
+Once Upon a Time in America,4.21,76740,"['Crime', 'Drama']","['Robert De Niro', 'James Woods', 'Elizabeth McGovern']",English,Sergio Leone
+The Naked Gun: From the Files of Police Squad!,3.76,62506,"['Crime', 'Comedy']","['Leslie Nielsen', 'Priscilla Presley', 'Ricardo Montalban']",English,David Zucker
+Hereditary,3.97,724574,"['Thriller', 'Horror', 'Mystery']","['Toni Collette', 'Alex Wolff', 'Gabriel Byrne']",English,Ari Aster
+Snow White and the Seven Dwarfs,3.43,90455,"['Animation', 'Family', 'Fantasy']","['Adriana Caselotti', 'Lucille La Verne', 'Harry Stockwell']",English,David Hand
+Your Name.,4.21,387201,"['Romance', 'Animation', 'Drama']","['Ryunosuke Kamiki', 'Mone Kamishiraishi', 'Ryo Narita']",Japanese,Makoto Shinkai
+Rear Window,4.38,249298,"['Mystery', 'Thriller']","['James Stewart', 'Grace Kelly', 'Wendell Corey']",English,Alfred Hitchcock
+"Crouching Tiger, Hidden Dragon",4.04,77631,"['Drama', 'Romance', 'Action', 'Adventure']","['Chow Yun-fat', 'Michelle Yeoh', 'Zhang Ziyi']",Chinese,Ang Lee
+Ghost in the Shell,4.08,115733,"['Animation', 'Science Fiction', 'Action']","['Atsuko Tanaka', 'Akio Otsuka', 'Iemasa Kayumi']",Japanese,Mamoru Oshii
+Cléo from 5 to 7,4.2,72127,['Drama'],"['Corinne Marchand', 'Dominique Davray', 'Antoine Bourseiller']",French,Agnès Varda
+Clerks,3.81,68400,['Comedy'],"[""Brian O'Halloran"", 'Jeff Anderson', 'Marilyn Ghigliotti']",English,Kevin Smith
+The Banshees of Inisherin,4.11,365998,"['Comedy', 'Drama']","['Colin Farrell', 'Brendan Gleeson', 'Kerry Condon']",English,Martin McDonagh
+8½,4.3,81650,['Drama'],"['Marcello Mastroianni', 'Anouk Aimée', 'Sandra Milo']",Italian,Federico Fellini
+The Addams Family,3.68,125902,"['Comedy', 'Fantasy']","['Raúl Juliá', 'Anjelica Huston', 'Christopher Lloyd']",English,Barry Sonnenfeld
+Chinatown,4.29,133988,"['Thriller', 'Mystery', 'Crime', 'Drama']","['Jack Nicholson', 'Faye Dunaway', 'John Huston']",English,Roman Polanski
+No Country for Old Men,4.33,546002,"['Crime', 'Thriller', 'Drama']","['Josh Brolin', 'Javier Bardem', 'Tommy Lee Jones']",English,Joel Coen
+Gone Girl,4.07,930156,"['Drama', 'Thriller', 'Mystery']","['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris']",English,David Fincher
+Donnie Darko,3.97,577221,"['Fantasy', 'Mystery', 'Drama']","['Jake Gyllenhaal', 'Jena Malone', 'James Duval']",English,Richard Kelly
+The Parent Trap,3.66,211161,"['Family', 'Romance', 'Comedy']","['Lindsay Lohan', 'Dennis Quaid', 'Natasha Richardson']",English,Nancy Meyers
+Tampopo,4.3,46961,['Comedy'],"['Tsutomu Yamazaki', 'Nobuko Miyamoto', 'Ken Watanabe']",Japanese,Jūzō Itami
+Inglourious Basterds,4.34,1049357,"['Drama', 'Thriller', 'War']","['Brad Pitt', 'Mélanie Laurent', 'Christoph Waltz']",English,Quentin Tarantino
+The Blues Brothers,3.97,82107,"['Comedy', 'Action', 'Crime', 'Music']","['Dan Aykroyd', 'John Belushi', 'James Brown']",English,John Landis
+The Father,4.29,121097,['Drama'],"['Anthony Hopkins', 'Olivia Colman', 'Mark Gatiss']",English,Florian Zeller
+Persona,4.41,133898,['Drama'],"['Bibi Andersson', 'Liv Ullmann', 'Margaretha Krook']",Swedish,Ingmar Bergman
+Wait Until Dark,3.89,11405,['Thriller'],"['Audrey Hepburn', 'Alan Arkin', 'Richard Crenna']",English,Terence Young
+The Green Mile,4.21,258252,"['Drama', 'Crime', 'Fantasy']","['Tom Hanks', 'Michael Clarke Duncan', 'David Morse']",English,Frank Darabont
+Fury,3.7,125872,"['War', 'Drama', 'Action']","['Brad Pitt', 'Shia LaBeouf', 'Logan Lerman']",English,David Ayer
+Raising Arizona,3.86,87732,"['Crime', 'Comedy']","['Nicolas Cage', 'Holly Hunter', 'Trey Wilson']",English,Joel Coen
+Snatch,4.01,176253,"['Comedy', 'Crime']","['Brad Pitt', 'Jason Statham', 'Alan Ford']",English,Guy Ritchie
+Ex Machina,3.99,403702,"['Science Fiction', 'Drama']","['Domhnall Gleeson', 'Alicia Vikander', 'Oscar Isaac']",English,Alex Garland
+Idiocracy,3.0,34249,"['Science Fiction', 'Comedy', 'Adventure']","['Luke Wilson', 'Maya Rudolph', 'Dax Shepard']",English,Mike Judge
+Blazing Saddles,3.82,60941,"['Western', 'Comedy']","['Cleavon Little', 'Gene Wilder', 'Slim Pickens']",English,Mel Brooks
+Kung Fu Hustle,3.94,54597,"['Comedy', 'Fantasy', 'Crime', 'Action']","['Stephen Chow', 'Yuen Wah', 'Yuen Qiu']",Cantonese,Stephen Chow
+Night of the Living Dead,3.97,95176,"['Thriller', 'Science Fiction', 'Horror']","[""Judith O'Dea"", 'Duane Jones', 'Marilyn Eastman']",English,George A. Romero
+Fargo,4.22,370114,"['Crime', 'Drama', 'Thriller', 'Comedy']","['Frances McDormand', 'William H. Macy', 'Steve Buscemi']",English,Joel Coen
+"tick, tick...BOOM!",3.82,262799,"['Drama', 'Music']","['Andrew Garfield', 'Robin de Jesús', 'Alexandra Shipp']",English,Lin-Manuel Miranda
+Good Time,4.0,232458,"['Thriller', 'Crime']","['Robert Pattinson', 'Benny Safdie', 'Buddy Duress']",English,Josh Safdie
+The Lego Movie,3.79,299389,"['Family', 'Animation', 'Adventure', 'Fantasy', 'Comedy']","['Chris Pratt', 'Elizabeth Banks', 'Will Ferrell']",English,Phil Lord
+The Farewell,4.06,126562,"['Comedy', 'Drama']","['Awkwafina', 'Zhao Shuzhen', 'Tzi Ma']",English,Lulu Wang
+"Three Billboards Outside Ebbing, Missouri",4.03,265370,"['Crime', 'Drama']","['Frances McDormand', 'Woody Harrelson', 'Sam Rockwell']",English,Martin McDonagh
+Rosemary's Baby,4.21,167164,"['Horror', 'Drama', 'Thriller']","['Mia Farrow', 'John Cassavetes', 'Ruth Gordon']",English,Roman Polanski
+Big Fish,3.88,158693,"['Drama', 'Adventure', 'Fantasy']","['Ewan McGregor', 'Albert Finney', 'Billy Crudup']",English,Tim Burton
+"Monsters, Inc.",4.07,597882,"['Comedy', 'Animation', 'Family']","['John Goodman', 'Billy Crystal', 'Mary Gibbs']",English,Pete Docter
+"The Good, the Bad and the Ugly",4.49,203375,['Western'],"['Clint Eastwood', 'Eli Wallach', 'Lee Van Cleef']",Italian,Sergio Leone
+The Lobster,3.8,289143,"['Drama', 'Comedy', 'Romance']","['Colin Farrell', 'Rachel Weisz', 'Olivia Colman']",English,Yorgos Lanthimos
+Apocalypse Now,4.44,274406,"['Drama', 'War']","['Martin Sheen', 'Frederic Forrest', 'Albert Hall']",English,Francis Ford Coppola
+The Prestige,4.23,433478,"['Science Fiction', 'Drama', 'Mystery']","['Hugh Jackman', 'Christian Bale', 'Michael Caine']",English,Christopher Nolan
+Argo,3.7,104522,"['Thriller', 'Drama']","['Ben Affleck', 'Bryan Cranston', 'Alan Arkin']",English,Ben Affleck
+Empire of the Sun,3.81,24898,"['History', 'War', 'Drama']","['Christian Bale', 'John Malkovich', 'Miranda Richardson']",English,Steven Spielberg
+Gremlins,3.64,146270,"['Fantasy', 'Horror', 'Comedy']","['Zach Galligan', 'Phoebe Cates', 'Hoyt Axton']",English,Joe Dante
+Heathers,3.76,218041,"['Crime', 'Comedy']","['Winona Ryder', 'Christian Slater', 'Shannen Doherty']",English,Michael Lehmann
+13 Going on 30,3.56,266006,"['Comedy', 'Romance', 'Fantasy']","['Jennifer Garner', 'Mark Ruffalo', 'Judy Greer']",English,Gary Winick
+Bride of Frankenstein,3.97,35004,"['Horror', 'Science Fiction']","['Boris Karloff', 'Ernest Thesiger', 'Colin Clive']",English,James Whale
+Rushmore,3.9,142469,"['Drama', 'Comedy']","['Jason Schwartzman', 'Bill Murray', 'Olivia Williams']",English,Wes Anderson
+Cinderella,3.48,70019,"['Fantasy', 'Animation', 'Family', 'Romance']","['Ilene Woods', 'Eleanor Audley', 'Verna Felton']",English,Hamilton Luske
+A Serious Man,3.88,57270,"['Comedy', 'Drama']","['Michael Stuhlbarg', 'Richard Kind', 'Fred Melamed']",English,Joel Coen
+Soul,3.94,626776,"['Family', 'Animation', 'Comedy', 'Fantasy']","['Jamie Foxx', 'Tina Fey', 'Graham Norton']",English,Pete Docter
+Lost in Translation,3.84,353374,"['Drama', 'Romance']","['Bill Murray', 'Scarlett Johansson', 'Giovanni Ribisi']",English,Sofia Coppola
+The Pianist,4.36,271139,"['Drama', 'War']","['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay']",English,Roman Polanski
+Who Framed Roger Rabbit,3.94,135641,"['Animation', 'Crime', 'Comedy', 'Fantasy']","['Bob Hoskins', 'Christopher Lloyd', 'Joanna Cassidy']",English,Robert Zemeckis
+Grease,3.47,209040,"['Comedy', 'Romance']","['John Travolta', 'Olivia Newton-John', 'Stockard Channing']",English,Randal Kleiser
+Inside Llewyn Davis,4.04,129762,"['Drama', 'Music']","['Oscar Isaac', 'Carey Mulligan', 'Justin Timberlake']",English,Joel Coen
+Yi Yi,4.54,49258,['Drama'],"['Wu Nien-jen', 'Issey Ogata', 'Elaine Jin']",Chinese,Edward Yang
+Shoplifters,4.3,99449,"['Drama', 'Thriller', 'Crime']","['Lily Franky', 'Sakura Ando', 'Mayu Matsuoka']",Japanese,Hirokazu Kore-eda
+The Tale of the Princess Kaguya,4.23,78976,"['Fantasy', 'Animation', 'Drama']","['Aki Asakura', 'Takeo Chii', 'Nobuko Miyamoto']",Japanese,Isao Takahata
+True Romance,3.93,74605,"['Romance', 'Crime', 'Action']","['Christian Slater', 'Patricia Arquette', 'Michael Rapaport']",English,Tony Scott
+A.I. Artificial Intelligence,3.59,69184,"['Drama', 'Science Fiction', 'Adventure']","['Haley Joel Osment', 'Jude Law', ""Frances O'Connor""]",English,Steven Spielberg
+Taste of Cherry,4.31,56004,['Drama'],"['Homayoun Ershadi', 'Abdolrahman Bagheri', 'Safar Ali Moradi']",Persian (Farsi),Abbas Kiarostami
+The Royal Tenenbaums,4.1,305003,"['Drama', 'Comedy']","['Gene Hackman', 'Anjelica Huston', 'Ben Stiller']",English,Wes Anderson
+A Christmas Story,3.56,58230,"['Family', 'Comedy']","['Peter Billingsley', 'Melinda Dillon', 'Darren McGavin']",English,Bob Clark
+Leaving Las Vegas,3.75,19572,"['Drama', 'Romance']","['Nicolas Cage', 'Elisabeth Shue', 'Julian Sands']",English,Mike Figgis
+Le Samouraï,4.25,52091,"['Crime', 'Drama', 'Thriller']","['Alain Delon', 'François Périer', 'Nathalie Delon']",French,Jean-Pierre Melville
+Mary Poppins,3.88,99492,"['Family', 'Comedy', 'Fantasy']","['Julie Andrews', 'Dick Van Dyke', 'David Tomlinson']",English,Robert Stevenson
+Clueless,3.72,434032,"['Drama', 'Comedy', 'Romance']","['Alicia Silverstone', 'Stacey Dash', 'Brittany Murphy']",English,Amy Heckerling
+Pan's Labyrinth,4.17,326532,"['War', 'Fantasy', 'Drama']","['Ivana Baquero', 'Sergi López', 'Maribel Verdú']",Spanish,Guillermo del Toro
+To Have and Have Not,3.89,11387,"['Adventure', 'Romance', 'War']","['Humphrey Bogart', 'Walter Brennan', 'Lauren Bacall']",English,Howard Hawks
+Giant,3.85,9555,"['Drama', 'Western']","['Elizabeth Taylor', 'Rock Hudson', 'James Dean']",English,George Stevens
+Midnight Run,3.81,27302,"['Crime', 'Comedy', 'Action']","['Robert De Niro', 'Charles Grodin', 'Yaphet Kotto']",English,Martin Brest
+Only Yesterday,3.93,44373,"['Drama', 'Romance', 'Animation']","['Miki Imai', 'Toshiro Yanagiba', 'Yoko Honna']",Japanese,Isao Takahata
+The Count of Monte Cristo,3.7,17483,"['Adventure', 'Drama', 'History']","['Jim Caviezel', 'Guy Pearce', 'Richard Harris']",English,Kevin Reynolds
+Alice in Wonderland,3.74,116916,"['Fantasy', 'Animation', 'Family', 'Adventure']","['Kathryn Beaumont', 'Ed Wynn', 'Richard Haydn']",English,Hamilton Luske
+The Handmaiden,4.41,247439,"['Thriller', 'Romance', 'Drama']","['Kim Min-hee', 'Kim Tae-ri', 'Ha Jung-woo']",Korean,Park Chan-wook
+M,4.32,63296,"['Thriller', 'Drama', 'Crime']","['Peter Lorre', 'Ellen Widmann', 'Inge Landgut']",German,Fritz Lang
+The Trial,4.02,13341,"['Crime', 'Drama', 'Mystery']","['Anthony Perkins', 'Jeanne Moreau', 'Romy Schneider']",English,Orson Welles
+The Salesman,3.84,13716,"['Drama', 'Thriller']","['Shahab Hosseini', 'Taraneh Alidoosti', 'Babak Karimi']",Persian (Farsi),Asghar Farhadi
+His Girl Friday,4.04,34594,"['Romance', 'Comedy']","['Rosalind Russell', 'Cary Grant', 'Ralph Bellamy']",English,Howard Hawks
+Sorcerer,4.23,33401,"['Drama', 'Thriller', 'Adventure']","['Roy Scheider', 'Bruno Cremer', 'Francisco Rabal']",English,William Friedkin
+How the Grinch Stole Christmas!,3.87,39574,"['Family', 'Comedy', 'Animation']","['Boris Karloff', 'June Foray', 'Dal McKennon']",English,Chuck Jones
+All That Jazz,4.31,35733,['Drama'],"['Roy Scheider', 'Ann Reinking', 'Leland Palmer']",English,Bob Fosse
+Barry Lyndon,4.39,99188,"['Drama', 'Romance', 'War']","[""Ryan O'Neal"", 'Marisa Berenson', 'Patrick Magee']",English,Stanley Kubrick
+Whisper of the Heart,4.15,121303,"['Drama', 'Animation', 'Family']","['Yoko Honna', 'Issey Takahashi', 'Takashi Tachibana']",Japanese,Yoshifumi Kondo
+It's Such a Beautiful Day,4.38,48518,"['Comedy', 'Animation']","['Don Hertzfeldt', 'Sara Cushman']",English,Don Hertzfeldt
+The Sound of Music,4.1,150352,"['Drama', 'Romance', 'Family', 'Music']","['Julie Andrews', 'Christopher Plummer', 'Eleanor Parker']",English,Robert Wise
+Life of Pi,3.71,206271,"['Drama', 'Adventure']","['Suraj Sharma', 'Irrfan Khan', 'Ayush Tandon']",English,Ang Lee
+Brazil,4.1,81779,"['Science Fiction', 'Comedy']","['Jonathan Pryce', 'Kim Greist', 'Robert De Niro']",English,Terry Gilliam
+Close Encounters of the Third Kind,3.84,78006,"['Drama', 'Science Fiction']","['Richard Dreyfuss', 'François Truffaut', 'Teri Garr']",English,Steven Spielberg
+Dog Day Afternoon,4.31,132861,"['Crime', 'Drama', 'Thriller']","['Al Pacino', 'John Cazale', 'Charles Durning']",English,Sidney Lumet
+Baby Driver,3.72,854589,"['Crime', 'Action']","['Ansel Elgort', 'Kevin Spacey', 'Lily James']",English,Edgar Wright
+Full Metal Jacket,4.2,265644,"['Drama', 'War']","['Matthew Modine', 'Adam Baldwin', ""Vincent D'Onofrio""]",English,Stanley Kubrick
+The Texas Chain Saw Massacre,3.85,201318,['Horror'],"['Marilyn Burns', 'Allen Danziger', 'Paul A. Partain']",English,Tobe Hooper
+The Big Short,3.81,231673,"['Drama', 'Comedy']","['Steve Carell', 'Christian Bale', 'John Magaro']",English,Adam McKay
+Uncut Gems,3.95,478932,"['Thriller', 'Drama', 'Crime']","['Adam Sandler', 'LaKeith Stanfield', 'Julia Fox']",English,Josh Safdie
+Lost Highway,4.04,87965,"['Thriller', 'Mystery', 'Drama']","['Bill Pullman', 'Patricia Arquette', 'Balthazar Getty']",English,David Lynch
+The Lighthouse,4.04,464747,"['Drama', 'Thriller', 'Fantasy']","['Robert Pattinson', 'Willem Dafoe', 'Valeriia Karaman']",English,Robert Eggers
+Double Indemnity,4.26,61939,"['Crime', 'Thriller']","['Fred MacMurray', 'Barbara Stanwyck', 'Edward G. Robinson']",English,Billy Wilder
+Birdman or,3.99,369570,"['Drama', 'Comedy']","['Michael Keaton', 'Emma Stone', 'Zach Galifianakis']",English,Alejandro González Iñárritu
+The Raid,4.0,79428,"['Crime', 'Action', 'Thriller']","['Iko Uwais', 'Joe Taslim', 'Donny Alamsyah']",Indonesian,Gareth Evans
+Shall We Dance?,3.82,2431,"['Comedy', 'Romance', 'Drama', 'Music']","['Koji Yakusho', 'Tamiyo Kusakari', 'Naoto Takenaka']",Japanese,Masayuki Suō
+La Femme Nikita,3.61,10328,"['Thriller', 'Action']","['Anne Parillaud', 'Jean-Hugues Anglade', 'Tchéky Karyo']",French,Luc Besson
+The Worst Person in the World,4.13,227056,"['Drama', 'Romance', 'Comedy']","['Renate Reinsve', 'Anders Danielsen Lie', 'Herbert Nordrum']",Norwegian,Joachim Trier
+Wild Strawberries,4.33,55054,['Drama'],"['Victor Sjöström', 'Bibi Andersson', 'Ingrid Thulin']",Swedish,Ingmar Bergman
+Chef,3.68,102826,['Comedy'],"['Jon Favreau', 'John Leguizamo', 'Bobby Cannavale']",English,Jon Favreau
+The Place Beyond the Pines,3.78,101026,"['Drama', 'Crime']","['Ryan Gosling', 'Eva Mendes', 'Bradley Cooper']",English,Derek Cianfrance
+Mustang,4.15,37018,['Drama'],"['Güneş Nezihe Şensoy', 'Doğa Zeynep Doğuşlu', 'Elit İşcan']",Turkish,Deniz Gamze Ergüven
+Society of the Snow,4.12,266652,"['History', 'Drama']","['Enzo Vogrincic', 'Agustín Pardella', 'Matías Recalt']",Spanish,J. A. Bayona
+The Florida Project,4.11,287603,['Drama'],"['Brooklynn Prince', 'Bria Vinaite', 'Willem Dafoe']",English,Sean Baker
+Almost Famous,4.03,182423,"['Drama', 'Music']","['Billy Crudup', 'Frances McDormand', 'Kate Hudson']",English,Cameron Crowe
+Beetlejuice,3.77,298396,"['Fantasy', 'Comedy']","['Alec Baldwin', 'Geena Davis', 'Jeffrey Jones']",English,Tim Burton
+"4 Months, 3 Weeks and 2 Days",4.22,16679,['Drama'],"['Anamaria Marinca', 'Laura Vasiliu', 'Vlad Ivanov']",Romanian,Cristian Mungiu
+Love Actually,3.43,203919,"['Drama', 'Romance', 'Comedy']","['Alan Rickman', 'Bill Nighy', 'Colin Firth']",English,Richard Curtis
+L.A. Confidential,4.07,93659,"['Mystery', 'Crime', 'Thriller']","['Russell Crowe', 'Guy Pearce', 'Kevin Spacey']",English,Curtis Hanson
+Midnight Cowboy,4.12,47769,['Drama'],"['Jon Voight', 'Dustin Hoffman', 'Sylvia Miles']",English,John Schlesinger
+12 Years a Slave,4.14,180820,"['History', 'Drama']","['Chiwetel Ejiofor', 'Michael Fassbender', ""Lupita Nyong'o""]",English,Steve McQueen
+Cool Hand Luke,4.14,35562,"['Crime', 'Action', 'Drama']","['Paul Newman', 'George Kennedy', 'Luke Askew']",English,Stuart Rosenberg
+Days of Heaven,4.11,43989,"['Romance', 'Drama']","['Richard Gere', 'Brooke Adams', 'Sam Shepard']",English,Terrence Malick
+Lilya 4-ever,4.12,30063,"['Drama', 'Crime']","['Oksana Akinshina', 'Artyom Bogucharsky', 'Lyubov Agapova']",Swedish,Lukas Moodysson
+Another Round,4.08,185234,"['Drama', 'Comedy']","['Mads Mikkelsen', 'Thomas Bo Larsen', 'Magnus Millang']",Danish,Thomas Vinterberg
+Tsotsi,3.53,1801,"['Crime', 'Drama']","['Presley Chweneyagae', 'Jerry Mofokeng', 'Terry Pheto']",Tswana,Gavin Hood
+Moonrise Kingdom,4.02,381801,"['Romance', 'Drama', 'Comedy']","['Jared Gilman', 'Kara Hayward', 'Bruce Willis']",English,Wes Anderson
+North by Northwest,4.19,93561,"['Mystery', 'Adventure', 'Thriller']","['Cary Grant', 'Eva Marie Saint', 'James Mason']",English,Alfred Hitchcock
+Basic Instinct,3.6,50792,"['Thriller', 'Mystery']","['Michael Douglas', 'Sharon Stone', 'George Dzundza']",English,Paul Verhoeven
+Mask,3.53,4190,['Drama'],"['Cher', 'Sam Elliott', 'Eric Stoltz']",English,Peter Bogdanovich
+In the Heat of the Night,4.02,22117,"['Mystery', 'Drama', 'Thriller', 'Crime']","['Sidney Poitier', 'Rod Steiger', 'Warren Oates']",English,Norman Jewison
+Breathless,3.93,76760,"['Crime', 'Drama']","['Jean-Paul Belmondo', 'Jean Seberg', 'Daniel Boulanger']",French,Jean-Luc Godard
+Police Story,4.01,37614,"['Action', 'Thriller', 'Crime']","['Jackie Chan', 'Brigitte Lin', 'Maggie Cheung']",Cantonese,Jackie Chan
+Das Boot,4.28,26220,"['Drama', 'War', 'History']","['Jürgen Prochnow', 'Herbert Grönemeyer', 'Klaus Wennemann']",German,Wolfgang Petersen
+Oldboy,4.39,363775,"['Thriller', 'Mystery', 'Drama', 'Action']","['Choi Min-sik', 'Yoo Ji-tae', 'Kang Hye-jung']",Korean,Park Chan-wook
+Mystic River,3.83,79824,"['Thriller', 'Mystery', 'Crime', 'Drama']","['Sean Penn', 'Tim Robbins', 'Kevin Bacon']",English,Clint Eastwood
+Picnic at Hanging Rock,3.84,27815,"['Mystery', 'Drama']","['Rachel Roberts', 'Vivean Gray', 'Helen Morse']",English,Peter Weir
+King Kong,3.87,30041,"['Adventure', 'Fantasy', 'Horror']","['Robert Armstrong', 'Fay Wray', 'Bruce Cabot']",English,Merian C. Cooper
+Thirteen,3.47,96060,['Drama'],"['Evan Rachel Wood', 'Nikki Reed', 'Holly Hunter']",English,Catherine Hardwicke
+Mother,4.16,49329,"['Drama', 'Crime', 'Mystery']","['Kim Hye-ja', 'Won Bin', 'Jin Goo']",Korean,Bong Joon-ho
+On the Waterfront,4.18,37660,"['Romance', 'Drama', 'Crime']","['Marlon Brando', 'Karl Malden', 'Lee J. Cobb']",English,Elia Kazan
+Suspiria,3.95,168341,['Horror'],"['Jessica Harper', 'Stefania Casini', 'Flavio Bucci']",English,Dario Argento
+Buffalo '66,3.87,74887,"['Drama', 'Comedy', 'Romance']","['Vincent Gallo', 'Christina Ricci', 'Ben Gazzara']",English,Vincent Gallo
+Pirates of the Caribbean: The Curse of the Black Pearl,3.91,411373,"['Fantasy', 'Adventure', 'Action']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley']",English,Gore Verbinski
+Close,4.09,87616,['Drama'],"['Eden Dambrine', 'Gustav De Waele', 'Émilie Dequenne']",French,Lukas Dhont
+La Ciénaga,3.87,17043,['Drama'],"['Mercedes Morán', 'Graciela Borges', 'Martín Adjemián']",Spanish,Lucrecia Martel
+Rebel Without a Cause,3.83,50812,['Drama'],"['James Dean', 'Natalie Wood', 'Sal Mineo']",English,Nicholas Ray
+Nightcrawler,4.04,504790,"['Drama', 'Crime', 'Thriller']","['Jake Gyllenhaal', 'Riz Ahmed', 'Rene Russo']",English,Dan Gilroy
+Captain Fantastic,3.91,134029,"['Drama', 'Adventure']","['Viggo Mortensen', 'Samantha Isler', 'Annalise Basso']",English,Matt Ross
+After Hours,4.12,94049,"['Thriller', 'Drama', 'Comedy']","['Griffin Dunne', 'Rosanna Arquette', 'Linda Fiorentino']",English,Martin Scorsese
+The Bridge on the River Kwai,4.22,29363,"['War', 'History', 'Drama']","['William Holden', 'Alec Guinness', 'Jack Hawkins']",English,David Lean
+Serpico,3.9,38182,"['Drama', 'Crime']","['Al Pacino', 'John Randolph', 'Jack Kehoe']",English,Sidney Lumet
+Into the Wild,3.79,156121,"['Drama', 'Adventure']","['Emile Hirsch', 'Marcia Gay Harden', 'William Hurt']",English,Sean Penn
+"The Cook, the Thief, His Wife & Her Lover",4.14,23009,"['Crime', 'Drama']","['Richard Bohringer', 'Michael Gambon', 'Helen Mirren']",English,Peter Greenaway
+Platoon,3.96,67509,"['War', 'Action', 'Drama']","['Charlie Sheen', 'Willem Dafoe', 'Tom Berenger']",English,Oliver Stone
+A Beautiful Mind,3.82,125002,"['Drama', 'Romance']","['Russell Crowe', 'Jennifer Connelly', 'Ed Harris']",English,Ron Howard
+Solaris,4.25,64095,"['Mystery', 'Science Fiction', 'Drama']","['Donatas Banionis', 'Natalya Bondarchuk', 'Jüri Järvet']",Russian,Andrei Tarkovsky
+Casino,4.19,167445,"['Crime', 'Drama', 'History']","['Robert De Niro', 'Sharon Stone', 'Joe Pesci']",English,Martin Scorsese
+Thief,4.08,46162,"['Thriller', 'Crime', 'Action']","['James Caan', 'Tuesday Weld', 'Robert Prosky']",English,Michael Mann
+Silver Linings Playbook,3.67,248560,"['Romance', 'Drama', 'Comedy']","['Bradley Cooper', 'Jennifer Lawrence', 'Robert De Niro']",English,David O. Russell
+Blow Out,4.11,61167,"['Thriller', 'Mystery', 'Crime']","['John Travolta', 'Nancy Allen', 'John Lithgow']",English,Brian De Palma
+Empire Records,3.51,45045,"['Music', 'Comedy', 'Drama']","['Anthony LaPaglia', 'Maxwell Caulfield', 'Debi Mazar']",English,Allan Moyle
+Finding Forrester,3.4,5767,['Drama'],"['Sean Connery', 'Rob Brown', 'F. Murray Abraham']",English,Gus Van Sant
+Rashomon,4.23,78682,"['Crime', 'Drama', 'Mystery']","['Toshirō Mifune', 'Machiko Kyō', 'Takashi Shimura']",Japanese,Akira Kurosawa
+Pitch Perfect,3.45,231601,"['Music', 'Comedy', 'Romance']","['Anna Kendrick', 'Brittany Snow', 'Anna Camp']",English,Jason Moore
+Apollo 13,3.79,55488,"['History', 'Drama']","['Tom Hanks', 'Bill Paxton', 'Kevin Bacon']",English,Ron Howard
+Moulin Rouge!,3.74,135972,"['Romance', 'Music', 'Drama']","['Nicole Kidman', 'Ewan McGregor', 'John Leguizamo']",English,Baz Luhrmann
+All About My Mother,4.14,70614,"['Comedy', 'Drama']","['Cecilia Roth', 'Marisa Paredes', 'Candela Peña']",Spanish,Pedro Almodóvar
+Central Station,4.23,41183,['Drama'],"['Fernanda Montenegro', 'Vinícius de Oliveira', 'Marília Pêra']",Portuguese,Walter Salles
+Shallow Grave,3.75,21398,"['Thriller', 'Crime']","['Kerry Fox', 'Christopher Eccleston', 'Ewan McGregor']",English,Danny Boyle
+Fanny and Alexander,4.41,24010,"['Mystery', 'Drama', 'Fantasy']","['Pernilla Allwin', 'Bertil Guve', 'Jan Malmsjö']",Swedish,Ingmar Bergman
+The Rules of the Game,4.07,16562,"['Drama', 'Comedy', 'Romance']","['Jean Renoir', 'Marcel Dalio', 'Nora Gregor']",French,Jean Renoir
+Napoleon Dynamite,3.67,164577,['Comedy'],"['Jon Heder', 'Efren Ramirez', 'Tina Majorino']",English,Jared Hess
+Willy Wonka & the Chocolate Factory,3.81,161788,"['Comedy', 'Family', 'Fantasy']","['Cast', 'Crew', 'Details']",English,Mel Stuart
+The Umbrellas of Cherbourg,4.14,53504,"['Drama', 'Romance']","['Catherine Deneuve', 'Nino Castelnuovo', 'Anne Vernon']",French,Jacques Demy
+The Fabelmans,4.01,183022,['Drama'],"['Gabriel LaBelle', 'Michelle Williams', 'Paul Dano']",English,Steven Spielberg
+Fiddler on the Roof,4.04,16124,"['Drama', 'Romance']","['Topol', 'Norma Crane', 'Leonard Frey']",English,Norman Jewison
+Miracle on 34th Street,3.78,17592,"['Comedy', 'Drama', 'Family']","[""Maureen O'Hara"", 'John Payne', 'Edmund Gwenn']",English,George Seaton
+West Side Story,3.82,70702,"['Romance', 'Crime', 'Drama']","['Richard Beymer', 'Natalie Wood', 'Rita Moreno']",English,Robert Wise
+Ran,4.5,63849,"['Drama', 'History', 'Action']","['Tatsuya Nakadai', 'Akira Terao', 'Jinpachi Nezu']",Japanese,Akira Kurosawa
+Ghostbusters,3.76,243782,"['Comedy', 'Fantasy']","['Bill Murray', 'Dan Aykroyd', 'Sigourney Weaver']",English,Ivan Reitman
+The Edge of Seventeen,3.53,209957,"['Drama', 'Comedy']","['Hailee Steinfeld', 'Woody Harrelson', 'Haley Lu Richardson']",English,Kelly Fremon Craig
+Kramer vs. Kramer,4.02,38449,['Drama'],"['Dustin Hoffman', 'Meryl Streep', 'Jane Alexander']",English,Robert Benton
+The Talented Mr. Ripley,3.83,104381,"['Crime', 'Drama', 'Thriller']","['Matt Damon', 'Jude Law', 'Gwyneth Paltrow']",English,Anthony Minghella
+Billy Elliot,4.0,73029,"['Drama', 'Music', 'Comedy']","['Jamie Bell', 'Gary Lewis', 'Julie Walters']",English,Stephen Daldry
+Ashes and Diamonds,4.02,7987,"['War', 'Romance', 'Drama']","['Zbigniew Cybulski', 'Ewa Krzyżewska', 'Wacław Zastrzeżynski']",Polish,Andrzej Wajda
+A Room with a View,3.69,16476,"['Romance', 'Drama']","['Helena Bonham Carter', 'Julian Sands', 'Maggie Smith']",English,James Ivory
+Oppenheimer,4.24,921440,"['Drama', 'History']","['Cillian Murphy', 'Emily Blunt', 'Matt Damon']",English,Christopher Nolan
+Trading Places,3.62,30523,['Comedy'],"['Dan Aykroyd', 'Eddie Murphy', 'Ralph Bellamy']",English,John Landis
+Mr. Smith Goes to Washington,4.09,19965,"['Comedy', 'Drama']","['James Stewart', 'Jean Arthur', 'Claude Rains']",English,Frank Capra
+Fantastic Mr. Fox,4.27,762856,"['Family', 'Adventure', 'Comedy', 'Animation']","['George Clooney', 'Meryl Streep', 'Jason Schwartzman']",English,Wes Anderson
+L'Avventura,4.08,22038,"['Drama', 'Mystery']","['Monica Vitti', 'Lea Massari', 'Gabriele Ferzetti']",Italian,Michelangelo Antonioni
+Ponyo,4.04,302556,"['Family', 'Fantasy', 'Animation']","['Yuria Kozuki', 'Hiroki Doi', 'George Tokoro']",Japanese,Hayao Miyazaki
+Boyz n the Hood,4.03,70060,"['Drama', 'Crime']","['Cuba Gooding Jr.', 'Laurence Fishburne', 'Ice Cube']",English,John Singleton
+Brief Encounter,4.3,31044,"['Romance', 'Drama']","['Celia Johnson', 'Trevor Howard', 'Stanley Holloway']",English,David Lean
+American Graffiti,3.73,37403,"['Drama', 'Comedy']","['Richard Dreyfuss', 'Ron Howard', 'Paul Le Mat']",English,George Lucas
+The Peanut Butter Falcon,3.83,74052,"['Drama', 'Adventure', 'Comedy']","['Shia LaBeouf', 'Zack Gottsagen', 'Dakota Johnson']",English,Tyler Nilson
+Living,3.56,15590,['Drama'],"['Bill Nighy', 'Aimee Lou Wood', 'Alex Sharp']",English,Oliver Hermanus
+Orpheus,4.07,11177,"['Fantasy', 'Romance', 'Drama']","['Jean Marais', 'François Périer', 'María Casares']",French,Jean Cocteau
+The Conversation,4.17,59058,"['Drama', 'Crime', 'Mystery']","['Gene Hackman', 'John Cazale', 'Allen Garfield']",English,Francis Ford Coppola
+Malena,3.57,18094,['Drama'],"['Monica Bellucci', 'Giuseppe Sulfaro', 'Luciano Federico']",Italian,Giuseppe Tornatore
+The Deer Hunter,4.18,69438,"['War', 'Drama']","['Robert De Niro', 'Christopher Walken', 'John Cazale']",English,Michael Cimino
+The Incredibles,4.07,632887,"['Animation', 'Family', 'Adventure', 'Action']","['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell']",English,Brad Bird
+The Stepford Wives,3.69,11709,"['Mystery', 'Science Fiction', 'Horror', 'Thriller']","['Katharine Ross', 'Paula Prentiss', 'Nanette Newman']",English,Bryan Forbes
+Angel Heart,3.64,17611,"['Horror', 'Mystery']","['Mickey Rourke', 'Robert De Niro', 'Lisa Bonet']",English,Alan Parker
+Point Break,3.73,83441,"['Thriller', 'Crime', 'Action']","['Patrick Swayze', 'Keanu Reeves', 'Gary Busey']",English,Kathryn Bigelow
+Uptown Girls,3.78,59563,"['Drama', 'Comedy']","['Brittany Murphy', 'Dakota Fanning', 'Marley Shelton']",English,Boaz Yakin
+Breaking Away,3.92,7753,"['Comedy', 'Drama']","['Dennis Christopher', 'Dennis Quaid', 'Daniel Stern']",English,Peter Yates
+The Seven Year Itch,3.37,10869,"['Comedy', 'Romance']","['Marilyn Monroe', 'Tom Ewell', 'Evelyn Keyes']",English,Billy Wilder
+Menace II Society,3.86,21122,"['Crime', 'Drama']","['Tyrin Turner', 'Larenz Tate', 'Glenn Plummer']",English,Albert Hughes
+Fast Times at Ridgemont High,3.48,41135,['Comedy'],"['Sean Penn', 'Jennifer Jason Leigh', 'Judge Reinhold']",English,Amy Heckerling
+Halloween,3.81,295441,"['Horror', 'Thriller']","['Donald Pleasence', 'Jamie Lee Curtis', 'P.J. Soles']",English,John Carpenter
+The Motorcycle Diaries,3.86,18353,['Drama'],"['Gael García Bernal', 'Rodrigo de la Serna', 'Mercedes Morán']",Spanish,Walter Salles
+Gattaca,3.77,76612,"['Thriller', 'Romance', 'Mystery', 'Science Fiction']","['Ethan Hawke', 'Uma Thurman', 'Jude Law']",English,Andrew Niccol
+Scott Pilgrim vs. the World,3.87,845768,"['Comedy', 'Romance', 'Action']","['Michael Cera', 'Mary Elizabeth Winstead', 'Ellen Wong']",English,Edgar Wright
+Hachi: A Dog's Tale,3.74,45787,"['Drama', 'Family']","['Richard Gere', 'Joan Allen', 'Sarah Roemer']",English,Lasse Hallström
+All Quiet on the Western Front,4.13,15715,"['Drama', 'War']","['Louis Wolheim', 'Lew Ayres', 'John Wray']",English,Lewis Milestone
+Holiday,3.94,9757,"['Comedy', 'Romance', 'Drama']","['Katharine Hepburn', 'Cary Grant', 'Doris Nolan']",English,George Cukor
+Paprika,4.08,143893,"['Animation', 'Thriller', 'Science Fiction', 'Drama', 'Fantasy', 'Mystery']","['Megumi Hayashibara', 'Tohru Emori', 'Katsunosuke Hori']",Japanese,Satoshi Kon
+Gravity,3.5,207000,"['Thriller', 'Drama', 'Science Fiction']","['Sandra Bullock', 'George Clooney', 'Ed Harris']",English,Alfonso Cuarón
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,4.31,193491,"['Comedy', 'War', 'Drama']","['Peter Sellers', 'George C. Scott', 'Sterling Hayden']",English,Stanley Kubrick
+The Game,3.76,116527,"['Thriller', 'Drama', 'Mystery']","['Michael Douglas', 'Sean Penn', 'Deborah Kara Unger']",English,David Fincher
+A Clockwork Orange,4.13,428245,"['Science Fiction', 'Crime']","['Malcolm McDowell', 'Patrick Magee', 'Michael Bates']",English,Stanley Kubrick
+The Fugitive,3.89,61989,"['Drama', 'Action', 'Thriller']","['Harrison Ford', 'Tommy Lee Jones', 'Joe Pantoliano']",English,Andrew Davis
+Blood Simple,3.9,49947,"['Crime', 'Drama', 'Thriller']","['John Getz', 'Frances McDormand', 'Dan Hedaya']",English,Joel Coen
+Harold and Maude,4.1,53544,"['Drama', 'Comedy', 'Romance']","['Ruth Gordon', 'Bud Cort', 'Vivian Pickles']",English,Hal Ashby
+Beautiful Boy,3.87,243669,['Drama'],"['Steve Carell', 'Timothée Chalamet', 'Maura Tierney']",English,Felix van Groeningen
+The Last Emperor,3.89,16269,"['Drama', 'History']","['John Lone', 'Joan Chen', ""Peter O'Toole""]",English,Bernardo Bertolucci
+Rope,4.13,83599,"['Crime', 'Drama', 'Thriller']","['James Stewart', 'John Dall', 'Farley Granger']",English,Alfred Hitchcock
+Erin Brockovich,3.81,60611,['Drama'],"['Julia Roberts', 'Albert Finney', 'Aaron Eckhart']",English,Steven Soderbergh
+The Untouchables,3.82,66381,"['History', 'Thriller', 'Crime', 'Drama']","['Kevin Costner', 'Sean Connery', 'Charles Martin Smith']",English,Brian De Palma
+The Chorus,3.92,27088,['Drama'],"['Gérard Jugnot', 'François Berléand', 'Kad Merad']",French,Christophe Barratier
+The Full Monty,3.66,17050,['Comedy'],"['Robert Carlyle', 'Mark Addy', 'Wim Snape']",English,Peter Cattaneo
+Bridget Jones's Diary,3.41,109596,"['Comedy', 'Romance', 'Drama']","['Renée Zellweger', 'Colin Firth', 'Hugh Grant']",English,Sharon Maguire
+A Streetcar Named Desire,4.0,38271,['Drama'],"['Vivien Leigh', 'Marlon Brando', 'Kim Hunter']",English,Elia Kazan
+The Menu,3.54,620229,"['Comedy', 'Thriller', 'Horror']","['Anya Taylor-Joy', 'Ralph Fiennes', 'Nicholas Hoult']",English,Mark Mylod
+Vive L'Amour,4.07,8857,['Drama'],"['Lee Kang-sheng', 'Yang Kuei-Mei', 'Chen Chao-jung']",Chinese,Tsai Ming-liang
+The Karate Kid,3.73,107595,"['Family', 'Drama', 'Action']","['Ralph Macchio', 'Pat Morita', 'Elisabeth Shue']",English,John G. Avildsen
+The Devil's Backbone,3.82,24990,"['Horror', 'Thriller', 'Drama', 'Fantasy']","['Marisa Paredes', 'Eduardo Noriega', 'Federico Luppi']",Spanish,Guillermo del Toro
+Purple Noon,3.98,13356,"['Drama', 'Crime', 'Thriller']","['Alain Delon', 'Marie Laforêt', 'Maurice Ronet']",French,René Clément
+Touch of Evil,4.17,31738,"['Thriller', 'Mystery', 'Crime']","['Charlton Heston', 'Janet Leigh', 'Orson Welles']",English,Orson Welles
+Eighth Grade,3.79,153719,"['Comedy', 'Drama']","['Elsie Fisher', 'Josh Hamilton', 'Emily Robinson']",English,Bo Burnham
+The Return,4.12,10726,['Drama'],"['Vladimir Garin', 'Konstantin Lavronenko', 'Nataliya Vdovina']",Russian,Andrey Zvyagintsev
+A Summer's Tale,4.08,18647,"['Comedy', 'Romance', 'Drama']","['Melvil Poupaud', 'Amanda Langlet', 'Gwenaëlle Simon']",French,Éric Rohmer
+The Great Beauty,4.09,43816,['Drama'],"['Toni Servillo', 'Carlo Verdone', 'Sabrina Ferilli']",Italian,Paolo Sorrentino
+The Vanishing,4.03,26362,"['Mystery', 'Thriller']","['Bernard-Pierre Donnadieu', 'Gene Bervoets', 'Johanna ter Steege']",Dutch,George Sluizer
+The Girl with the Dragon Tattoo,3.87,162907,"['Crime', 'Mystery', 'Thriller']","['Daniel Craig', 'Rooney Mara', 'Christopher Plummer']",English,David Fincher
+Past Lives,4.19,392415,"['Drama', 'Romance']","['Greta Lee', 'Teo Yoo', 'John Magaro']",English,Celine Song
+Monty Python and the Holy Grail,4.13,231811,"['Fantasy', 'Comedy', 'Adventure']","['Graham Chapman', 'John Cleese', 'Eric Idle']",English,Terry Gilliam
+Legally Blonde,3.77,307202,"['Romance', 'Comedy']","['Reese Witherspoon', 'Luke Wilson', 'Selma Blair']",English,Robert Luketic
+A Separation,4.36,53560,['Drama'],"['Payman Maadi', 'Sare Bayat', 'Leila Hatami']",Persian (Farsi),Asghar Farhadi
+The King of Comedy,4.24,118355,"['Comedy', 'Drama']","['Robert De Niro', 'Jerry Lewis', 'Sandra Bernhard']",English,Martin Scorsese
+Midsommar,3.78,1054151,"['Mystery', 'Drama', 'Horror']","['Florence Pugh', 'Jack Reynor', 'William Jackson Harper']",English,Ari Aster
+Witness for the Prosecution,4.33,25554,"['Mystery', 'Crime', 'Drama']","['Tyrone Power', 'Marlene Dietrich', 'Charles Laughton']",English,Billy Wilder
+The English Patient,3.56,17483,"['Drama', 'Romance', 'War']","['Ralph Fiennes', 'Juliette Binoche', 'Willem Dafoe']",English,Anthony Minghella
+The Great Escape,4.13,36189,"['History', 'Drama', 'War', 'Thriller', 'Adventure']","['Steve McQueen', 'James Garner', 'Richard Attenborough']",English,John Sturges
+PlayTime,4.2,32778,['Comedy'],"['Jacques Tati', 'Barbara Dennek', 'Rita Maiden']",French,Jacques Tati
+Fantasia,3.9,84321,"['Family', 'Fantasy', 'Animation']","['Deems Taylor', 'Walt Disney', 'Julietta Novis']",English,David Hand
+Predator,3.79,132089,"['Thriller', 'Science Fiction', 'Adventure', 'Action']","['Arnold Schwarzenegger', 'Carl Weathers', 'Elpidia Carrillo']",English,John McTiernan
+Thesis,3.8,19944,"['Thriller', 'Horror']","['Ana Torrent', 'Fele Martínez', 'Eduardo Noriega']",Spanish,Alejandro Amenábar
+Who's Afraid of Virginia Woolf?,4.24,26314,['Drama'],"['Richard Burton', 'Elizabeth Taylor', 'George Segal']",English,Mike Nichols
+Primal Fear,3.87,65607,"['Drama', 'Crime', 'Thriller', 'Mystery']","['Richard Gere', 'Laura Linney', 'Edward Norton']",English,Gregory Hoblit
+Guess Who's Coming to Dinner,3.81,12167,"['Romance', 'Comedy', 'Drama']","['Katharine Houghton', 'Sidney Poitier', 'Katharine Hepburn']",English,Stanley Kramer
+Jumanji,3.6,168917,"['Fantasy', 'Family', 'Adventure']","['Robin Williams', 'Kirsten Dunst', 'Bradley Pierce']",English,Joe Johnston
+"What's Up, Doc?",4.06,21608,"['Romance', 'Comedy']","['Barbra Streisand', ""Ryan O'Neal"", 'Madeline Kahn']",English,Peter Bogdanovich
+Capernaum,4.13,31086,['Drama'],"['Zain Al Rafeea', 'Yordanos Shifera', 'Boluwatife Treasure Bankole']",Arabic,Nadine Labaki
+Garden State,3.43,35732,"['Drama', 'Comedy', 'Romance']","['Zach Braff', 'Natalie Portman', 'Ian Holm']",English,Zach Braff
+Le Trou,4.44,12293,"['Drama', 'Crime', 'Thriller']","['Michel Constantin', 'Jean Keraudy', 'Philippe Leroy']",French,Jacques Becker
+Saturday Night Fever,3.22,25785,"['Drama', 'Music']","['John Travolta', 'Karen Lynn Gorney', 'Barry Miller']",English,John Badham
+Phantom of the Paradise,4.06,39758,"['Music', 'Comedy', 'Horror']","['William Finley', 'Paul Williams', 'Jessica Harper']",English,Brian De Palma
+Amour,4.21,42666,"['Drama', 'Romance']","['Jean-Louis Trintignant', 'Emmanuelle Riva', 'Isabelle Huppert']",French,Michael Haneke
+Twelve Monkeys,3.86,110747,"['Thriller', 'Mystery', 'Science Fiction']","['Bruce Willis', 'Madeleine Stowe', 'Brad Pitt']",English,Terry Gilliam
+The Red Shoes,4.38,47861,"['Drama', 'Romance']","['Moira Shearer', 'Adolf Wohlbrück', 'Marius Goring']",English,Emeric Pressburger
+My Life as a Zucchini,4.15,62776,"['Drama', 'Comedy', 'Romance', 'Family', 'Animation']","['Gaspard Schlatter', 'Sixtine Murat', 'Paulin Jaccoud']",French,Claude Barras
+The Fly,3.98,131323,"['Science Fiction', 'Horror']","['Jeff Goldblum', 'Geena Davis', 'John Getz']",English,David Cronenberg
+Frankenstein,3.83,50000,"['Science Fiction', 'Horror', 'Drama']","['Colin Clive', 'Mae Clarke', 'John Boles']",English,James Whale
+The Third Man,4.27,55622,"['Mystery', 'Thriller']","['Joseph Cotten', 'Alida Valli', 'Trevor Howard']",English,Carol Reed
+What a Way to Go!,3.76,3915,"['Romance', 'Comedy']","['Shirley MacLaine', 'Paul Newman', 'Robert Mitchum']",English,J. Lee Thompson
+The Insider,4.05,26393,"['Drama', 'Thriller']","['Al Pacino', 'Russell Crowe', 'Christopher Plummer']",English,Michael Mann
+Lady Bird,3.86,974353,"['Comedy', 'Drama']","['Saoirse Ronan', 'Laurie Metcalf', 'Tracy Letts']",English,Greta Gerwig
+Notting Hill,3.61,197643,"['Comedy', 'Romance']","['Julia Roberts', 'Hugh Grant', 'Gina McKee']",English,Roger Michell
+The Young and the Damned,4.18,17377,['Drama'],"['Estela Inda', 'Miguel Inclán', 'Alfonso Mejía']",Spanish,Luis Buñuel
+Wild Tales,4.13,68650,"['Comedy', 'Drama', 'Thriller']","['Ricardo Darín', 'Leonardo Sbaraglia', 'Érica Rivas']",Spanish,Damián Szifron
+The Piano,3.85,31341,"['Romance', 'Drama']","['Holly Hunter', 'Harvey Keitel', 'Sam Neill']",English,Jane Campion
+My Own Private Idaho,3.87,74195,"['Comedy', 'Drama']","['River Phoenix', 'Keanu Reeves', 'James Russo']",English,Gus Van Sant
+Women on the Verge of a Nervous Breakdown,4.08,61557,"['Comedy', 'Drama']","['Carmen Maura', 'Antonio Banderas', 'Julieta Serrano']",Spanish,Pedro Almodóvar
+Love Letter,4.04,9231,"['Romance', 'Drama']","['Miho Nakayama', 'Etsushi Toyokawa', 'Bunjaku Han']",Japanese,Shunji Iwai
+The Warriors,3.83,51047,"['Thriller', 'Action']","['Michael Beck', 'James Remar', 'David Patrick Kelly']",English,Walter Hill
+The Color Purple,3.87,32620,"['Crime', 'Drama', 'History']","['Whoopi Goldberg', 'Danny Glover', 'Margaret Avery']",English,Steven Spielberg
+A Nightmare on Elm Street,3.73,188624,['Horror'],"['Heather Langenkamp', 'John Saxon', 'Ronee Blakley']",English,Wes Craven
+Wings of Desire,4.3,55097,"['Drama', 'Romance', 'Fantasy']","['Bruno Ganz', 'Solveig Dommartin', 'Otto Sander']",German,Wim Wenders
+House,4.0,113586,"['Comedy', 'Fantasy', 'Horror']","['Kimiko Ikegami', 'Miki Jinbo', 'Kumiko Ohba']",Japanese,Nobuhiko Obayashi
+Seven Psychopaths,3.65,63947,"['Comedy', 'Crime']","['Colin Farrell', 'Sam Rockwell', 'Woody Harrelson']",English,Martin McDonagh
+In a Lonely Place,4.2,23919,"['Romance', 'Mystery', 'Drama', 'Crime']","['Humphrey Bogart', 'Gloria Grahame', 'Frank Lovejoy']",English,Nicholas Ray
+The Young Girls of Rochefort,4.3,35509,"['Romance', 'Comedy', 'Drama']","['Catherine Deneuve', 'Françoise Dorléac', 'Jacques Perrin']",French,Jacques Demy
+"Suddenly, Last Summer",3.72,4236,"['Mystery', 'Thriller', 'Drama']","['Elizabeth Taylor', 'Katharine Hepburn', 'Montgomery Clift']",English,Joseph L. Mankiewicz
+Young Frankenstein,4.01,77011,['Comedy'],"['Gene Wilder', 'Teri Garr', 'Marty Feldman']",English,Mel Brooks
+Enter the Dragon,3.8,37046,['Action'],"['Bruce Lee', 'John Saxon', 'Jim Kelly']",English,Robert Clouse
+Say Anything...,3.58,32611,"['Romance', 'Drama', 'Comedy']","['John Cusack', 'Ione Skye', 'John Mahoney']",English,Cameron Crowe
+Terms of Endearment,3.77,11811,"['Comedy', 'Drama']","['Shirley MacLaine', 'Debra Winger', 'Jack Nicholson']",English,James L. Brooks
+Joint Security Area,4.12,20860,"['Thriller', 'War', 'Drama', 'Action']","['Lee Young-ae', 'Lee Byung-hun', 'Song Kang-ho']",Korean,Park Chan-wook
+Dogville,4.14,53492,"['Crime', 'Thriller', 'Drama']","['Nicole Kidman', 'Paul Bettany', 'John Hurt']",English,Lars von Trier
+Where Is the Friend's House?,4.34,40361,"['Family', 'Drama']","['Babek Ahmed Poor', 'Ahmed Ahmed Poor', 'Kheda Barech Defai']",Persian (Farsi),Abbas Kiarostami
+Lady Snowblood,4.05,22094,"['Action', 'Crime', 'Drama']","['Meiko Kaji', 'Toshio Kurosawa', 'Masaaki Daimon']",Japanese,Toshiya Fujita
+Diabolique,4.16,25810,"['Drama', 'Horror', 'Thriller']","['Véra Clouzot', 'Simone Signoret', 'Paul Meurisse']",French,Henri-Georges Clouzot
+Letter Never Sent,4.04,3741,"['Adventure', 'Drama']","['Innokentiy Smoktunovskiy', 'Tatyana Samoylova', 'Vasiliy Livanov']",Russian,Mikhail Kalatozov
+The Hidden Fortress,4.11,20050,"['Drama', 'Action', 'Adventure']","['Toshirō Mifune', 'Minoru Chiaki', 'Kamatari Fujiwara']",Japanese,Akira Kurosawa
+Nosferatu,3.89,73575,['Horror'],"['Max Schreck', 'Gustav von Wangenheim', 'Greta Schröder']",No spoken language,F. W. Murnau
+Gentlemen Prefer Blondes,3.81,39582,"['Romance', 'Comedy']","['Jane Russell', 'Marilyn Monroe', 'Charles Coburn']",English,Howard Hawks
+Shaun of the Dead,3.98,358548,"['Comedy', 'Horror']","['Simon Pegg', 'Nick Frost', 'Kate Ashfield']",English,Edgar Wright
+Tootsie,3.73,28850,"['Comedy', 'Romance']","['Dustin Hoffman', 'Jessica Lange', 'Teri Garr']",English,Sydney Pollack
+Poor Things,4.12,513724,"['Romance', 'Science Fiction', 'Comedy']","['Emma Stone', 'Mark Ruffalo', 'Willem Dafoe']",English,Yorgos Lanthimos
+Laura,4.03,21060,"['Mystery', 'Drama']","['Gene Tierney', 'Dana Andrews', 'Clifton Webb']",English,Otto Preminger
+Deliverance,3.86,26504,"['Thriller', 'Drama', 'Adventure']","['Jon Voight', 'Burt Reynolds', 'Ned Beatty']",English,John Boorman
+Nomadland,3.84,147594,['Drama'],"['Frances McDormand', 'David Strathairn', 'Linda May']",English,Chloé Zhao
+The Holdovers,4.22,326077,"['Comedy', 'Drama']","['Paul Giamatti', 'Dominic Sessa', ""Da'Vine Joy Randolph""]",English,Alexander Payne
+Early Summer,4.18,6995,['Drama'],"['Setsuko Hara', 'Chishū Ryū', 'Chikage Awashima']",Japanese,Yasujirō Ozu
+Being John Malkovich,4.07,158593,"['Comedy', 'Fantasy', 'Drama']","['John Cusack', 'John Malkovich', 'Cameron Diaz']",English,Spike Jonze
+Peeping Tom,4.01,25217,"['Horror', 'Thriller', 'Drama']","['Karlheinz Böhm', 'Moira Shearer', 'Anna Massey']",English,Michael Powell
+Monster,4.29,73819,['Drama'],"['Sakura Ando', 'Eita Nagayama', 'Soya Kurokawa']",Japanese,Hirokazu Kore-eda
+A Bronx Tale,3.98,42030,"['Drama', 'Crime']","['Robert De Niro', 'Chazz Palminteri', 'Lillo Brancato']",English,Robert De Niro
+The Station Agent,3.81,8774,"['Drama', 'Comedy']","['Peter Dinklage', 'Patricia Clarkson', 'Bobby Cannavale']",English,Tom McCarthy
+"Sherlock, Jr.",4.37,39119,"['Action', 'Comedy', 'Mystery']","['Buster Keaton', 'Kathryn McGuire', 'Joe Keaton']",No spoken language,Buster Keaton
+Falling Down,3.68,39041,"['Drama', 'Crime', 'Thriller']","['Michael Douglas', 'Robert Duvall', 'Barbara Hershey']",English,Joel Schumacher
+Bringing Up Baby,3.98,33032,"['Drama', 'Romance', 'Comedy']","['Katharine Hepburn', 'Cary Grant', 'Charles Ruggles']",English,Howard Hawks
+Hard Boiled,4.14,28875,"['Thriller', 'Crime', 'Action']","['Chow Yun-fat', 'Tony Leung Chiu-wai', 'Anthony Wong']",Cantonese,John Woo
+Il Sorpasso,4.18,8883,"['Comedy', 'Drama']","['Vittorio Gassman', 'Jean-Louis Trintignant', 'Catherine Spaak']",Italian,Dino Risi
+The Best Years of Our Lives,4.2,13291,"['Drama', 'Romance', 'War']","['Fredric March', 'Myrna Loy', 'Dana Andrews']",English,William Wyler
+Children of Heaven,4.1,11906,"['Family', 'Drama']","['Amir Farrokh Hashemian', 'Bahare Seddiqi', 'Nafise Jafar-Mohammadi']",Persian (Farsi),Majid Majidi
+Planet of the Apes,4.0,50442,"['Adventure', 'Drama', 'Action', 'Science Fiction']","['Charlton Heston', 'Roddy McDowall', 'Kim Hunter']",English,Franklin J. Schaffner
+The Spanish Apartment,3.6,8021,"['Romance', 'Drama', 'Comedy']","['Romain Duris', 'Audrey Tautou', 'Kelly Reilly']",French,Cédric Klapisch
+Godzilla,4.03,47719,"['Horror', 'Thriller', 'Science Fiction']","['Akira Takarada', 'Momoko Kôchi', 'Akihiko Hirata']",Japanese,Ishirō Honda
+La Jetée,4.33,54401,"['Romance', 'Science Fiction']","['Jean Négroni', 'Hélène Chatelain', 'Davos Hanich']",French,Chris Marker
+Brick,3.72,41216,"['Mystery', 'Drama']","['Joseph Gordon-Levitt', 'Emilie de Ravin', 'Nora Zehetner']",English,Rian Johnson
+Arsenic and Old Lace,3.91,18145,"['Crime', 'Comedy']","['Cary Grant', 'Priscilla Lane', 'Josephine Hull']",English,Frank Capra
+Barbie,3.89,1417078,"['Comedy', 'Adventure']","['Margot Robbie', 'Ryan Gosling', 'America Ferrera']",English,Greta Gerwig
+Matilda,3.69,205807,"['Comedy', 'Fantasy', 'Family']","['Mara Wilson', 'Danny DeVito', 'Rhea Perlman']",English,Danny DeVito
+Funny Games,3.95,75452,"['Thriller', 'Horror', 'Drama']","['Ulrich Mühe', 'Susanne Lothar', 'Arno Frisch']",German,Michael Haneke
+Unforgiven,4.2,73828,['Western'],"['Clint Eastwood', 'Gene Hackman', 'Morgan Freeman']",English,Clint Eastwood
+TÁR,3.95,174006,"['Music', 'Drama']","['Cate Blanchett', 'Nina Hoss', 'Noémie Merlant']",English,Todd Field
+Vivre Sa Vie,4.03,43008,['Drama'],"['Anna Karina', 'Sady Rebbot', 'André S. Labarthe']",French,Jean-Luc Godard
+The Wave,3.63,18619,"['Thriller', 'Drama']","['Jürgen Vogel', 'Frederick Lau', 'Max Riemelt']",German,Dennis Gansel
+It Happened One Night,4.14,36060,"['Comedy', 'Romance']","['Clark Gable', 'Claudette Colbert', 'Walter Connolly']",English,Frank Capra
+Dune,3.9,912876,"['Science Fiction', 'Adventure']","['Timothée Chalamet', 'Rebecca Ferguson', 'Oscar Isaac']",English,Denis Villeneuve
+The Breadwinner,4.04,23644,"['Family', 'Drama', 'Animation', 'War']","['Saara Chaudry', 'Soma Bhatia', 'Laara Sadiq']",English,Nora Twomey
+The Omen,3.65,36653,"['Thriller', 'Horror']","['Gregory Peck', 'Lee Remick', 'David Warner']",English,Richard Donner
+Perfect Days,4.24,90675,['Drama'],"['Koji Yakusho', 'Tokio Emoto', 'Arisa Nakano']",Japanese,Wim Wenders
+Zodiac,4.02,447211,"['Drama', 'Crime', 'Thriller', 'Mystery']","['Jake Gyllenhaal', 'Mark Ruffalo', 'Anthony Edwards']",English,David Fincher
+Spellbound,3.75,13983,"['Drama', 'Thriller', 'Mystery', 'Romance']","['Ingrid Bergman', 'Gregory Peck', 'Michael Chekhov']",English,Alfred Hitchcock
+The Taking of Pelham One Two Three,4.04,20101,"['Drama', 'Action', 'Thriller', 'Crime']","['Walter Matthau', 'Robert Shaw', 'Martin Balsam']",English,Joseph Sargent
+The Hitcher,3.61,14268,"['Horror', 'Thriller', 'Action']","['Rutger Hauer', 'C. Thomas Howell', 'Jennifer Jason Leigh']",English,Robert Harmon
+Nights of Cabiria,4.36,27194,['Drama'],"['Giulietta Masina', 'François Périer', 'Franca Marzi']",Italian,Federico Fellini
+The Long Goodbye,4.18,43719,"['Crime', 'Drama', 'Comedy']","['Elliott Gould', 'Nina van Pallandt', 'Sterling Hayden']",English,Robert Altman
+Safe,3.97,24335,['Drama'],"['Julianne Moore', 'Xander Berkeley', 'Peter Friedman']",English,Todd Haynes
+The Hours,3.83,29326,['Drama'],"['Julianne Moore', 'Nicole Kidman', 'Meryl Streep']",English,Stephen Daldry
+Black Swan,4.14,803511,"['Drama', 'Thriller', 'Horror']","['Natalie Portman', 'Mila Kunis', 'Vincent Cassel']",English,Darren Aronofsky
+Hunt for the Wilderpeople,4.06,132344,"['Comedy', 'Drama', 'Adventure']","['Sam Neill', 'Julian Dennison', 'Rima Te Wiata']",English,Taika Waititi
+A Brighter Summer Day,4.49,28599,"['Drama', 'Crime', 'Romance']","['Chang Chen', 'Lisa Yang', 'Chang Kuo-Chu']",Chinese,Edward Yang
+Hell or High Water,3.92,94420,"['Crime', 'Western', 'Drama']","['Jeff Bridges', 'Chris Pine', 'Ben Foster']",English,David Mackenzie
+All the President's Men,4.15,51811,"['Thriller', 'Mystery', 'History', 'Drama']","['Dustin Hoffman', 'Robert Redford', 'Jack Warden']",English,Alan J. Pakula
+Ordinary People,3.97,15376,['Drama'],"['Donald Sutherland', 'Mary Tyler Moore', 'Judd Hirsch']",English,Robert Redford
+Lion,3.87,92822,['Drama'],"['Dev Patel', 'Rooney Mara', 'David Wenham']",English,Garth Davis
+Ritual,4.22,11214,"['Drama', 'Romance']","['Shunji Iwai', 'Ayako Fujitani', 'Jun Murakami']",Japanese,Hideaki Anno
+"Girl, Interrupted",3.89,296730,['Drama'],"['Winona Ryder', 'Angelina Jolie', 'Brittany Murphy']",English,James Mangold
+Marie Antoinette,3.72,165018,"['History', 'Drama']","['Kirsten Dunst', 'Jason Schwartzman', 'Steve Coogan']",English,Sofia Coppola
+The Innocents,4.11,19667,"['Horror', 'Mystery']","['Deborah Kerr', 'Peter Wyngarde', 'Megs Jenkins']",English,Jack Clayton
+Ace in the Hole,4.24,18343,['Drama'],"['Kirk Douglas', 'Jan Sterling', 'Robert Arthur']",English,Billy Wilder
+A Woman Under the Influence,4.38,40336,['Drama'],"['Gena Rowlands', 'Peter Falk', 'Fred Draper']",English,John Cassavetes
+The French Connection,4.0,45227,"['Crime', 'Action', 'Thriller']","['Gene Hackman', 'Fernando Rey', 'Roy Scheider']",English,William Friedkin
+Two Women,3.87,3134,"['War', 'Drama']","['Sophia Loren', 'Jean-Paul Belmondo', 'Raf Vallone']",Italian,Vittorio De Sica
+A Few Good Men,3.97,59154,['Drama'],"['Tom Cruise', 'Jack Nicholson', 'Demi Moore']",English,Rob Reiner
+American Psycho,3.87,911791,"['Crime', 'Thriller', 'Horror', 'Drama']","['Christian Bale', 'Willem Dafoe', 'Jared Leto']",English,Mary Harron
+Good Morning,4.18,22273,"['Family', 'Drama', 'Comedy']","['Keiji Sada', 'Yoshiko Kuga', 'Chishū Ryū']",Japanese,Yasujirō Ozu
+Paper Moon,4.32,33662,"['Drama', 'Crime', 'Comedy']","[""Tatum O'Neal"", ""Ryan O'Neal"", 'Madeline Kahn']",English,Peter Bogdanovich
+The Birds,3.76,97518,['Horror'],"['Tippi Hedren', 'Rod Taylor', 'Jessica Tandy']",English,Alfred Hitchcock
+Eastern Promises,3.87,49980,"['Mystery', 'Crime', 'Thriller']","['Viggo Mortensen', 'Naomi Watts', 'Vincent Cassel']",English,David Cronenberg
+Marriage Story,4.0,457546,['Drama'],"['Adam Driver', 'Scarlett Johansson', 'Laura Dern']",English,Noah Baumbach
+Blow-Up,3.84,37839,"['Mystery', 'Drama', 'Thriller']","['David Hemmings', 'Vanessa Redgrave', 'Sarah Miles']",English,Michelangelo Antonioni
+A Simple Plan,3.84,14771,"['Crime', 'Drama', 'Thriller']","['Bill Paxton', 'Billy Bob Thornton', 'Bridget Fonda']",English,Sam Raimi
+Slumdog Millionaire,3.89,152395,"['Drama', 'Romance']","['Dev Patel', 'Freida Pinto', 'Madhur Mittal']",English,Danny Boyle
+All About Eve,4.33,44106,['Drama'],"['Bette Davis', 'Anne Baxter', 'George Sanders']",English,Joseph L. Mankiewicz
+The Assassination of Jesse James by the Coward Robert Ford,4.02,52839,"['Drama', 'Western', 'Action']","['Casey Affleck', 'Brad Pitt', 'Sam Rockwell']",English,Andrew Dominik
+42,3.64,22507,['Drama'],"['Chadwick Boseman', 'Harrison Ford', 'Nicole Beharie']",English,Brian Helgeland
+Roma,4.11,163138,['Drama'],"['Yalitza Aparicio', 'Marina de Tavira', 'Diego Cortina Autrey']",Spanish,Alfonso Cuarón
+Her,4.03,715397,"['Science Fiction', 'Drama', 'Romance']","['Joaquin Phoenix', 'Scarlett Johansson', 'Amy Adams']",English,Spike Jonze
+Sweet Smell of Success,4.23,19964,['Drama'],"['Tony Curtis', 'Burt Lancaster', 'Susan Harrison']",English,Alexander Mackendrick
+Being There,4.06,22421,"['Comedy', 'Drama']","['Peter Sellers', 'Shirley MacLaine', 'Melvyn Douglas']",English,Hal Ashby
+Gaslight,3.98,16703,"['Drama', 'Crime', 'Mystery', 'Thriller']","['Charles Boyer', 'Ingrid Bergman', 'Joseph Cotten']",English,George Cukor
+Mulan,4.08,324195,"['Family', 'Adventure', 'Animation']","['Ming-Na Wen', 'Eddie Murphy', 'BD Wong']",English,Tony Bancroft
+American Gangster,3.82,52281,"['Crime', 'Drama']","['Russell Crowe', 'Denzel Washington', 'Chiwetel Ejiofor']",English,Ridley Scott
+Miller's Crossing,3.99,36426,"['Drama', 'Thriller', 'Crime']","['Gabriel Byrne', 'Marcia Gay Harden', 'John Turturro']",English,Joel Coen
+Mystery Train,3.97,24760,['Comedy'],"['Youki Kudoh', 'Masatoshi Nagase', ""Screamin' Jay Hawkins""]",English,Jim Jarmusch
+Rebecca,4.12,44357,"['Mystery', 'Drama', 'Thriller', 'Romance']","['Laurence Olivier', 'Joan Fontaine', 'George Sanders']",English,Alfred Hitchcock
+Sideways,3.79,38307,"['Comedy', 'Romance', 'Drama']","['Paul Giamatti', 'Thomas Haden Church', 'Virginia Madsen']",English,Alexander Payne
+The Favourite,4.04,276638,"['Thriller', 'Drama', 'Comedy']","['Olivia Colman', 'Emma Stone', 'Rachel Weisz']",English,Yorgos Lanthimos
+Field of Dreams,3.59,27305,"['Fantasy', 'Drama']","['Kevin Costner', 'Amy Madigan', 'Gaby Hoffmann']",English,Phil Alden Robinson
+Puss in Boots: The Last Wish,4.15,484524,"['Animation', 'Family', 'Fantasy', 'Action', 'Comedy', 'Adventure']","['Antonio Banderas', 'Salma Hayek Pinault', 'Harvey Guillén']",English,Joel Crawford
+The Shop Around the Corner,4.15,25097,"['Drama', 'Romance', 'Comedy']","['James Stewart', 'Margaret Sullavan', 'Frank Morgan']",English,Ernst Lubitsch
+Kwaidan,4.21,17263,"['Fantasy', 'Horror', 'Drama']","['Michiyo Aratama', 'Misako Watanabe', 'Rentaro Mikuni']",Japanese,Masaki Kobayashi
+The Celebration,4.27,31878,['Drama'],"['Ulrich Thomsen', 'Henning Moritzen', 'Thomas Bo Larsen']",Danish,Thomas Vinterberg
+Hiroshima Mon Amour,4.18,40587,"['Drama', 'Romance', 'History']","['Emmanuelle Riva', 'Eiji Okada', 'Stella Dassas']",French,Alain Resnais
+The Devil Wears Prada,3.77,486684,"['Comedy', 'Drama']","['Anne Hathaway', 'Meryl Streep', 'Emily Blunt']",English,David Frankel
+V for Vendetta,3.84,256050,"['Thriller', 'Science Fiction', 'Action']","['Natalie Portman', 'Hugo Weaving', 'Stephen Rea']",English,James McTeigue
+Ocean's Eleven,3.89,286484,"['Thriller', 'Crime']","['George Clooney', 'Matt Damon', 'Andy García']",English,Steven Soderbergh
+The Intern,3.25,68829,['Comedy'],"['Robert De Niro', 'Anne Hathaway', 'Rene Russo']",English,Nancy Meyers
+Dazed and Confused,3.93,164310,"['Drama', 'Comedy']","['Jason London', 'Joey Lauren Adams', 'Matthew McConaughey']",English,Richard Linklater
+Raging Bull,4.25,148386,['Drama'],"['Robert De Niro', 'Cathy Moriarty', 'Joe Pesci']",English,Martin Scorsese
+The Perks of Being a Wallflower,3.91,745631,['Drama'],"['Logan Lerman', 'Emma Watson', 'Ezra Miller']",English,Stephen Chbosky
+Don't Look Now,3.8,31979,"['Drama', 'Thriller', 'Horror']","['Julie Christie', 'Donald Sutherland', 'Hilary Mason']",English,Nicolas Roeg
+The Castle,3.8,5320,"['Comedy', 'Drama']","['Michael Caton', 'Anne Tenney', 'Stephen Curry']",English,Rob Sitch
+Kids,3.49,44403,"['Drama', 'Crime']","['Leo Fitzpatrick', 'Justin Pierce', 'Chloë Sevigny']",English,Larry Clark
+Arrival,4.11,733291,"['Science Fiction', 'Mystery', 'Drama']","['Amy Adams', 'Jeremy Renner', 'Forest Whitaker']",English,Denis Villeneuve
+Perfect Blue,4.4,318469,"['Thriller', 'Animation']","['Junko Iwao', 'Rica Matsumoto', 'Shiho Niiyama']",Japanese,Satoshi Kon
+Dirty Dancing,3.63,160129,"['Drama', 'Romance', 'Music']","['Jennifer Grey', 'Patrick Swayze', 'Jerry Orbach']",English,Emile Ardolino
+Boogie Nights,4.22,175672,['Drama'],"['Mark Wahlberg', 'Julianne Moore', 'Burt Reynolds']",English,Paul Thomas Anderson
+Coming to America,3.53,57043,"['Comedy', 'Romance']","['Eddie Murphy', 'Arsenio Hall', 'James Earl Jones']",English,John Landis
+Léon: The Professional,4.03,394319,"['Crime', 'Action', 'Drama']","['Jean Reno', 'Natalie Portman', 'Gary Oldman']",English,Luc Besson
+Pretty Woman,3.6,182526,"['Romance', 'Comedy']","['Richard Gere', 'Julia Roberts', 'Ralph Bellamy']",English,Garry Marshall
+Blood Diamond,3.68,58703,"['Action', 'Thriller', 'Drama']","['Leonardo DiCaprio', 'Djimon Hounsou', 'Jennifer Connelly']",English,Edward Zwick
+Green Book,3.7,198705,"['Drama', 'History']","['Viggo Mortensen', 'Mahershala Ali', 'Linda Cardellini']",English,Peter Farrelly
+(500) Days of Summer,3.66,487162,"['Romance', 'Comedy', 'Drama']","['Joseph Gordon-Levitt', 'Zooey Deschanel', 'Geoffrey Arend']",English,Marc Webb
+Blue Velvet,4.1,175660,"['Thriller', 'Crime', 'Mystery', 'Drama']","['Kyle MacLachlan', 'Isabella Rossellini', 'Laura Dern']",English,David Lynch
+Sunset Boulevard,4.44,108359,['Drama'],"['William Holden', 'Gloria Swanson', 'Erich von Stroheim']",English,Billy Wilder
+Little Women,4.14,844979,"['Romance', 'Drama']","['Saoirse Ronan', 'Florence Pugh', 'Emma Watson']",English,Greta Gerwig
+Ferris Bueller's Day Off,3.92,442615,['Comedy'],"['Matthew Broderick', 'Alan Ruck', 'Mia Sara']",English,John Hughes
+The Hangover,3.58,288956,['Comedy'],"['Bradley Cooper', 'Ed Helms', 'Zach Galifianakis']",English,Todd Phillips
+The Wolf of Wall Street,4.0,1052576,"['Comedy', 'Drama', 'Crime']","['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie']",English,Martin Scorsese
+The Bucket List,3.24,21228,"['Drama', 'Comedy']","['Jack Nicholson', 'Morgan Freeman', 'Sean Hayes']",English,Rob Reiner
+The Mummy,3.51,138209,"['Fantasy', 'Action', 'Adventure']","['Brendan Fraser', 'Rachel Weisz', 'John Hannah']",English,Stephen Sommers
+About Time,3.99,331122,"['Fantasy', 'Romance', 'Drama']","['Domhnall Gleeson', 'Rachel McAdams', 'Bill Nighy']",English,Richard Curtis
+1917,4.1,564221,"['Drama', 'War', 'Action']","['George MacKay', 'Dean-Charles Chapman', 'Mark Strong']",English,Sam Mendes
+Breakfast at Tiffany's,3.75,128630,"['Romance', 'Comedy', 'Drama']","['Audrey Hepburn', 'George Peppard', 'Patricia Neal']",English,Blake Edwards
+Cold War,4.03,59917,"['Drama', 'War', 'Romance', 'Music']","['Joanna Kulig', 'Tomasz Kot', 'Borys Szyc']",Polish,Paweł Pawlikowski
+La Dolce Vita,4.28,46018,"['Drama', 'Comedy']","['Marcello Mastroianni', 'Anita Ekberg', 'Anouk Aimée']",Italian,Federico Fellini
+Little Miss Sunshine,4.16,575782,"['Drama', 'Comedy']","['Greg Kinnear', 'Toni Collette', 'Steve Carell']",English,Jonathan Dayton
