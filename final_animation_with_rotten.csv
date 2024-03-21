@@ -1,0 +1,51 @@
+title,rating,likes,genre,language,director,n_rating,critic rating,audience rating
+The Prince of Egypt,3.99,110193.0,"['Adventure', 'Animation', 'Family', 'Drama']",English,Simon Wells,0.8507462686567164,79.0,89.0
+Spirited Away,4.46,1204588.0,"['Family', 'Fantasy', 'Animation']",Japanese,Hayao Miyazaki,0.950959488272921,96.0,96.0
+Spider-Man: Into the Spider-Verse,4.43,1654380.0,"['Adventure', 'Animation', 'Science Fiction', 'Action']",English,Rodney Rothman,0.9445628997867802,97.0,94.0
+A Silent Voice,4.15,161321.0,"['Drama', 'Animation']",Japanese,Naoko Yamada,0.8848614072494669,94.0,93.0
+Finding Nemo,4.04,596281.0,"['Animation', 'Family']",English,Andrew Stanton,0.8614072494669509,99.0,86.0
+Kung Fu Panda,3.83,294240.0,"['Comedy', 'Action', 'Family', 'Adventure', 'Animation']",English,Mark Osborne,0.8166311300639658,87.0,83.0
+Akira,4.27,257590.0,"['Animation', 'Action', 'Science Fiction']",Japanese,Katsuhiro Otomo,0.9104477611940296,91.0,90.0
+Toy Story,4.13,632705.0,"['Comedy', 'Animation', 'Family', 'Adventure']",English,John Lasseter,0.880597014925373,100.0,92.0
+The Lion King,4.21,560975.0,"['Animation', 'Family', 'Drama']",English,Roger Allers,0.8976545842217483,76.0,62.0
+Up,4.09,808338.0,"['Animation', 'Adventure', 'Family', 'Comedy']",English,Pete Docter,0.8720682302771854,98.0,90.0
+Grave of the Fireflies,4.45,224790.0,"['War', 'Drama', 'Animation']",Japanese,Isao Takahata,0.948827292110874,0.0,89.0
+Millennium Actress,4.22,41565.0,"['Romance', 'Animation', 'Drama']",Japanese,Satoshi Kon,0.8997867803837952,93.0,90.0
+The SpongeBob SquarePants Movie,3.85,134888.0,"['Adventure', 'Comedy', 'Fantasy', 'Family', 'Animation']",English,Stephen Hillenburg,0.8208955223880596,68.0,78.0
+Ratatouille,4.2,993548.0,"['Animation', 'Family', 'Comedy', 'Fantasy']",English,Brad Bird,0.8955223880597014,96.0,87.0
+Princess Mononoke,4.37,454900.0,"['Adventure', 'Fantasy', 'Animation']",Japanese,Hayao Miyazaki,0.9317697228144988,93.0,94.0
+Shrek,4.06,610075.0,"['Adventure', 'Fantasy', 'Family', 'Animation', 'Comedy']",English,Andrew Adamson,0.8656716417910446,0.0,93.0
+My Neighbor Totoro,4.19,560265.0,"['Fantasy', 'Animation', 'Family']",Japanese,Hayao Miyazaki,0.8933901918976546,93.0,94.0
+The Iron Giant,4.24,218933.0,"['Science Fiction', 'Animation', 'Family', 'Adventure']",English,Brad Bird,0.9040511727078892,96.0,90.0
+Inside Out,3.82,720787.0,"['Comedy', 'Family', 'Animation', 'Adventure', 'Drama']",English,Pete Docter,0.8144989339019189,98.0,89.0
+Fantastic Planet,4.01,76270.0,"['Animation', 'Science Fiction']",French,René Laloux,0.8550106609808101,91.0,87.0
+The Nightmare Before Christmas,3.95,479839.0,"['Family', 'Animation', 'Fantasy']",English,Henry Selick,0.8422174840085288,95.0,92.0
+Coco,4.12,823087.0,"['Adventure', 'Animation', 'Music', 'Family']",English,Lee Unkrich,0.8784648187633262,97.0,94.0
+Aladdin,3.88,241430.0,"['Adventure', 'Romance', 'Family', 'Fantasy', 'Animation']",English,Ron Clements,0.8272921108742003,95.0,92.0
+WALL·E,4.19,785609.0,"['Animation', 'Science Fiction', 'Family']",English,Andrew Stanton,0.8933901918976546,95.0,90.0
+Howl's Moving Castle,4.32,704108.0,"['Fantasy', 'Adventure', 'Animation']",Japanese,Hayao Miyazaki,0.9211087420042644,87.0,93.0
+Beauty and the Beast,3.88,202338.0,"['Romance', 'Fantasy', 'Family', 'Animation']",English,Gary Trousdale,0.8272921108742003,93.0,93.0
+Snow White and the Seven Dwarfs,3.43,90455.0,"['Animation', 'Family', 'Fantasy']",English,David Hand,0.7313432835820896,97.0,78.0
+Your Name.,4.21,387201.0,"['Romance', 'Animation', 'Drama']",Japanese,Makoto Shinkai,0.8976545842217483,98.0,97.0
+Ghost in the Shell,4.08,115733.0,"['Animation', 'Science Fiction', 'Action']",Japanese,Mamoru Oshii,0.8699360341151385,95.0,89.0
+The Lego Movie,3.79,299389.0,"['Family', 'Animation', 'Adventure', 'Fantasy', 'Comedy']",English,Phil Lord,0.8081023454157782,96.0,87.0
+"Monsters, Inc.",4.07,597882.0,"['Comedy', 'Animation', 'Family']",English,Pete Docter,0.8678038379530917,96.0,90.0
+Cinderella,3.48,70019.0,"['Fantasy', 'Animation', 'Family', 'Romance']",English,Hamilton Luske,0.742004264392324,98.0,80.0
+Soul,3.94,626776.0,"['Family', 'Animation', 'Comedy', 'Fantasy']",English,Pete Docter,0.8400852878464818,95.0,88.0
+Who Framed Roger Rabbit,3.94,135641.0,"['Animation', 'Crime', 'Comedy', 'Fantasy']",English,Robert Zemeckis,0.8400852878464818,96.0,85.0
+The Tale of the Princess Kaguya,4.23,78976.0,"['Fantasy', 'Animation', 'Drama']",Japanese,Isao Takahata,0.9019189765458422,100.0,90.0
+Only Yesterday,3.93,44373.0,"['Drama', 'Romance', 'Animation']",Japanese,Isao Takahata,0.8379530916844349,100.0,82.0
+Alice in Wonderland,3.74,116916.0,"['Fantasy', 'Animation', 'Family', 'Adventure']",English,Hamilton Luske,0.7974413646055437,84.0,78.0
+How the Grinch Stole Christmas!,3.87,39574.0,"['Family', 'Comedy', 'Animation']",English,Chuck Jones,0.8251599147121534,100.0,94.0
+Whisper of the Heart,4.15,121303.0,"['Drama', 'Animation', 'Family']",Japanese,Yoshifumi Kondo,0.8848614072494669,95.0,0.0
+It's Such a Beautiful Day,4.38,48518.0,"['Comedy', 'Animation']",English,Don Hertzfeldt,0.9339019189765456,100.0,92.0
+Fantastic Mr. Fox,4.27,762856.0,"['Family', 'Adventure', 'Comedy', 'Animation']",English,Wes Anderson,0.9104477611940296,93.0,85.0
+Ponyo,4.04,302556.0,"['Family', 'Fantasy', 'Animation']",Japanese,Hayao Miyazaki,0.8614072494669509,91.0,83.0
+The Incredibles,4.07,632887.0,"['Animation', 'Family', 'Adventure', 'Action']",English,Brad Bird,0.8678038379530917,97.0,75.0
+Paprika,4.08,143893.0,"['Animation', 'Thriller', 'Science Fiction', 'Drama', 'Fantasy', 'Mystery']",Japanese,Satoshi Kon,0.8699360341151385,86.0,87.0
+Fantasia,3.9,84321.0,"['Family', 'Fantasy', 'Animation']",English,David Hand,0.8315565031982941,95.0,83.0
+My Life as a Zucchini,4.15,62776.0,"['Drama', 'Comedy', 'Romance', 'Family', 'Animation']",French,Claude Barras,0.8848614072494669,99.0,89.0
+The Breadwinner,4.04,23644.0,"['Family', 'Drama', 'Animation', 'War']",English,Nora Twomey,0.8614072494669509,95.0,88.0
+Mulan,4.08,324195.0,"['Family', 'Adventure', 'Animation']",English,Tony Bancroft,0.8699360341151385,86.0,85.0
+Puss in Boots: The Last Wish,4.15,484524.0,"['Animation', 'Family', 'Fantasy', 'Action', 'Comedy', 'Adventure']",English,Joel Crawford,0.8848614072494669,95.0,94.0
+Perfect Blue,4.4,318469.0,"['Thriller', 'Animation']",Japanese,Satoshi Kon,0.9381663113006397,83.0,89.0
